@@ -4,6 +4,12 @@ TODO: present findings here
 
 ## Fetch EIA Data and Create The DB
 
+Register for a free EIA API key at eia.gov/opendata, then create a .env file at python/.env:
+
+```text
+EIA_API_KEY="your_key_here"
+```
+
 ```bash
 
 cd python

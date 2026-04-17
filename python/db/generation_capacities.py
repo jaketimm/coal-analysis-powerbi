@@ -2,6 +2,7 @@
 Generation capacities database read/write operations
 ─────────────────────────
 insert_yearly_generation_capacities(records)
+insert_yearly_coal_generation_capacities()
 """
 
 import sqlite3
@@ -95,7 +96,8 @@ def insert_yearly_generation_capacities(records: list[dict]) -> int:
         raise
 
 
-def create_yearly_coal_generation_capacities_table() -> int:
+# yearly_coal_generation_capacities table — writes
+def insert_yearly_coal_generation_capacities() -> int:
     """Create the yearly_coal_generation_capacities table if it doesn't exist."""
     try:
         conn = get_connection()
@@ -129,13 +131,13 @@ def create_yearly_coal_generation_capacities_table() -> int:
         rows = conn.execute(query).fetchall()
         conn.close()
     except sqlite3.Error as exc:
-        logger.error("SQLite error in get_yearly_source_disposition: %s", exc)
+        logger.error("SQLite error when fetching coal data: %s", exc)
         raise
     except Exception as exc:
-        logger.error("Unexpected error in get_yearly_source_disposition: %s", exc)
+        logger.error("Unexpected error when fetching coal data: %s", exc)
         raise
 
-    # Insert into yearly_coal_generation_capacities
+    # Insert coal data into yearly_coal_generation_capacities
     try:
         conn = get_connection()
         cur = conn.cursor()
