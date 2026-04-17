@@ -180,7 +180,7 @@ def fetch_coal_generation_capacities_data() -> list[sqlite3.Row]:
     FROM yearly_coal_generation_capacities coal
     JOIN totals
     ON coal.state = totals.state AND coal.period = totals.period
-    ORDER BY coal.state, coal.period;"""
+    ORDER BY coal.period;"""
 
     try:
         conn = get_connection()
