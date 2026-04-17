@@ -1,0 +1,8 @@
+.env
+suggested_refactoring.md
+__pycache__/
+*.pyc
+venv/
+logs/
+data/
+.idea/
