@@ -2,7 +2,9 @@
 
 TODO: present findings here
 
-## Fetch EIA Data and Create The DB
+
+
+## Fetch EIA Data, Create The DB, & Export Coal Data to CSV
 
 Register for a free EIA API key at eia.gov/opendata, then create a .env file at python/.env:
 
@@ -26,21 +28,20 @@ python run.py
 ```text
 coal-analysis-powerbi/
 ├── python/
-│   ├── run.py
+│   ├── run.py    # Main process
 │   ├── .env
 │   ├── requirements.txt
 │   ├── utils/
-│   │   ├── __init__.py
 │   │   ├── logger.py
 │   │   ├── file_utils.py
 │   │   ├── year_validator.py
 │   │   └── validator.py
 │   └── db/
-│       ├── __init__.py 
 │       ├── connection.py
 │       └── generation_capacities.py
 │
 └── data/
     ├── raw/
+    ├── processed/   # Exported CSV data
     └── eia.db
 ```

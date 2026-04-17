@@ -1,0 +1,1683 @@
+period,state,state_description,coal_capability,coal_capability_change
+1990,AK,Alaska,117.0,
+1991,AK,Alaska,112.0,-5.0
+1992,AK,Alaska,110.0,-2.0
+1993,AK,Alaska,110.0,0.0
+1994,AK,Alaska,110.0,0.0
+1995,AK,Alaska,110.0,0.0
+1996,AK,Alaska,110.0,0.0
+1997,AK,Alaska,110.0,0.0
+1998,AK,Alaska,109.0,-1.0
+1999,AK,Alaska,108.0,-1.0
+2000,AK,Alaska,108.0,0.0
+2001,AK,Alaska,85.0,-23.0
+2002,AK,Alaska,85.0,0.0
+2003,AK,Alaska,85.0,0.0
+2004,AK,Alaska,85.0,0.0
+2005,AK,Alaska,105.0,20.0
+2006,AK,Alaska,105.0,0.0
+2007,AK,Alaska,105.0,0.0
+2008,AK,Alaska,112.0,7.0
+2009,AK,Alaska,110.5,-1.5
+2010,AK,Alaska,110.5,0.0
+2011,AK,Alaska,110.5,0.0
+2012,AK,Alaska,110.5,0.0
+2013,AK,Alaska,110.5,0.0
+2014,AK,Alaska,106.1,-4.4
+2015,AK,Alaska,103.8,-2.3
+2016,AK,Alaska,153.8,50.0
+2017,AK,Alaska,152.8,-1.0
+2018,AK,Alaska,152.8,0.0
+2019,AK,Alaska,151.9,-0.9
+2020,AK,Alaska,168.9,17.0
+2021,AK,Alaska,168.9,0.0
+2022,AK,Alaska,167.9,-1.0
+2023,AK,Alaska,167.9,0.0
+2024,AK,Alaska,167.9,0.0
+1990,AL,Alabama,11131.0,
+1991,AL,Alabama,11612.0,481.0
+1992,AL,Alabama,11602.0,-10.0
+1993,AL,Alabama,11602.0,0.0
+1994,AL,Alabama,11554.0,-48.0
+1995,AL,Alabama,11692.0,138.0
+1996,AL,Alabama,11539.0,-153.0
+1997,AL,Alabama,11309.0,-230.0
+1998,AL,Alabama,11372.0,63.0
+1999,AL,Alabama,11372.0,0.0
+2000,AL,Alabama,11409.0,37.0
+2001,AL,Alabama,11385.0,-24.0
+2002,AL,Alabama,11265.0,-120.0
+2003,AL,Alabama,11231.0,-34.0
+2004,AL,Alabama,11370.0,139.0
+2005,AL,Alabama,11592.0,222.0
+2006,AL,Alabama,11557.0,-35.0
+2007,AL,Alabama,11544.0,-13.0
+2008,AL,Alabama,11505.9,-38.1
+2009,AL,Alabama,11485.7,-20.2
+2010,AL,Alabama,11440.6,-45.1
+2011,AL,Alabama,11456.6,16.0
+2012,AL,Alabama,11367.3,-89.3
+2013,AL,Alabama,11136.7,-230.6
+2014,AL,Alabama,10746.4,-390.3
+2015,AL,Alabama,8691.4,-2055.0
+2016,AL,Alabama,6283.4,-2408.0
+2017,AL,Alabama,5503.1,-780.3
+2018,AL,Alabama,6338.7,835.6
+2019,AL,Alabama,5284.3,-1054.4
+2020,AL,Alabama,4728.0,-556.3
+2021,AL,Alabama,4728.0,0.0
+2022,AL,Alabama,4728.0,0.0
+2023,AL,Alabama,4728.0,0.0
+2024,AL,Alabama,4728.0,0.0
+1990,AR,Arkansas,3817.0,
+1991,AR,Arkansas,3817.0,0.0
+1992,AR,Arkansas,3817.0,0.0
+1993,AR,Arkansas,3817.0,0.0
+1994,AR,Arkansas,3817.0,0.0
+1995,AR,Arkansas,3817.0,0.0
+1996,AR,Arkansas,3817.0,0.0
+1997,AR,Arkansas,3865.0,48.0
+1998,AR,Arkansas,3817.0,-48.0
+1999,AR,Arkansas,3680.0,-137.0
+2000,AR,Arkansas,3680.0,0.0
+2001,AR,Arkansas,3741.0,61.0
+2002,AR,Arkansas,3757.0,16.0
+2003,AR,Arkansas,3745.0,-12.0
+2004,AR,Arkansas,3745.0,0.0
+2005,AR,Arkansas,3793.0,48.0
+2006,AR,Arkansas,3846.0,53.0
+2007,AR,Arkansas,3846.0,0.0
+2008,AR,Arkansas,3861.0,15.0
+2009,AR,Arkansas,3864.0,3.0
+2010,AR,Arkansas,4535.0,671.0
+2011,AR,Arkansas,4535.0,0.0
+2012,AR,Arkansas,5144.0,609.0
+2013,AR,Arkansas,5122.3,-21.7
+2014,AR,Arkansas,5124.5,2.2
+2015,AR,Arkansas,5122.4,-2.1
+2016,AR,Arkansas,5116.0,-6.4
+2017,AR,Arkansas,5100.0,-16.0
+2018,AR,Arkansas,5105.3,5.3
+2019,AR,Arkansas,5163.4,58.1
+2020,AR,Arkansas,5128.1,-35.3
+2021,AR,Arkansas,5128.1,0.0
+2022,AR,Arkansas,5108.7,-19.4
+2023,AR,Arkansas,4734.0,-374.7
+2024,AR,Arkansas,4729.6,-4.4
+1990,AZ,Arizona,5167.0,
+1991,AZ,Arizona,5121.0,-46.0
+1992,AZ,Arizona,4976.0,-145.0
+1993,AZ,Arizona,5159.0,183.0
+1994,AZ,Arizona,5170.0,11.0
+1995,AZ,Arizona,5210.0,40.0
+1996,AZ,Arizona,5252.0,42.0
+1997,AZ,Arizona,5307.0,55.0
+1998,AZ,Arizona,5351.0,44.0
+1999,AZ,Arizona,5376.0,25.0
+2000,AZ,Arizona,5401.0,25.0
+2001,AZ,Arizona,5404.0,3.0
+2002,AZ,Arizona,5404.0,0.0
+2003,AZ,Arizona,5404.0,0.0
+2004,AZ,Arizona,5404.0,0.0
+2005,AZ,Arizona,5430.0,26.0
+2006,AZ,Arizona,5830.0,400.0
+2007,AZ,Arizona,5818.0,-12.0
+2008,AZ,Arizona,5818.0,0.0
+2009,AZ,Arizona,6227.0,409.0
+2010,AZ,Arizona,6233.0,6.0
+2011,AZ,Arizona,6225.0,-8.0
+2012,AZ,Arizona,6157.0,-68.0
+2013,AZ,Arizona,6157.0,0.0
+2014,AZ,Arizona,6170.0,13.0
+2015,AZ,Arizona,5910.0,-260.0
+2016,AZ,Arizona,5754.0,-156.0
+2017,AZ,Arizona,5754.0,0.0
+2018,AZ,Arizona,5579.0,-175.0
+2019,AZ,Arizona,3329.0,-2250.0
+2020,AZ,Arizona,2943.0,-386.0
+2021,AZ,Arizona,2943.0,0.0
+2022,AZ,Arizona,2943.0,0.0
+2023,AZ,Arizona,2939.0,-4.0
+2024,AZ,Arizona,2936.0,-3.0
+1990,CA,California,432.0,
+1991,CA,California,393.0,-39.0
+1992,CA,California,433.0,40.0
+1993,CA,California,439.0,6.0
+1994,CA,California,421.0,-18.0
+1995,CA,California,420.0,-1.0
+1996,CA,California,403.0,-17.0
+1997,CA,California,420.0,17.0
+1998,CA,California,381.0,-39.0
+1999,CA,California,385.0,4.0
+2000,CA,California,407.0,22.0
+2001,CA,California,363.0,-44.0
+2002,CA,California,352.0,-11.0
+2003,CA,California,358.0,6.0
+2004,CA,California,389.0,31.0
+2005,CA,California,389.0,0.0
+2006,CA,California,389.0,0.0
+2007,CA,California,389.0,0.0
+2008,CA,California,366.9,-22.1
+2009,CA,California,366.9,0.0
+2010,CA,California,373.9,7.0
+2011,CA,California,411.4,37.5
+2012,CA,California,350.5,-60.9
+2013,CA,California,252.8,-97.7
+2014,CA,California,118.6,-134.2
+2015,CA,California,90.0,-28.6
+2016,CA,California,57.0,-33.0
+2017,CA,California,57.0,0.0
+2018,CA,California,57.0,0.0
+2019,CA,California,57.0,0.0
+2020,CA,California,57.0,0.0
+2021,CA,California,57.0,0.0
+2022,CA,California,57.0,0.0
+2023,CA,California,57.0,0.0
+2024,CA,California,57.0,0.0
+1990,CO,Colorado,4877.0,
+1991,CO,Colorado,4977.0,100.0
+1992,CO,Colorado,4982.0,5.0
+1993,CO,Colorado,4982.0,0.0
+1994,CO,Colorado,4986.0,4.0
+1995,CO,Colorado,4986.0,0.0
+1996,CO,Colorado,4993.0,7.0
+1997,CO,Colorado,4988.0,-5.0
+1998,CO,Colorado,4996.0,8.0
+1999,CO,Colorado,5014.0,18.0
+2000,CO,Colorado,5014.0,0.0
+2001,CO,Colorado,5021.0,7.0
+2002,CO,Colorado,4931.0,-90.0
+2003,CO,Colorado,4931.0,0.0
+2004,CO,Colorado,4931.0,0.0
+2005,CO,Colorado,4928.0,-3.0
+2006,CO,Colorado,4939.0,11.0
+2007,CO,Colorado,4961.0,22.0
+2008,CO,Colorado,4965.4,4.4
+2009,CO,Colorado,5010.4,45.0
+2010,CO,Colorado,5701.7,691.3
+2011,CO,Colorado,5595.7,-106.0
+2012,CO,Colorado,5482.3,-113.4
+2013,CO,Colorado,5281.8,-200.5
+2014,CO,Colorado,5281.8,0.0
+2015,CO,Colorado,5089.8,-192.0
+2016,CO,Colorado,5038.8,-51.0
+2017,CO,Colorado,4499.0,-539.8
+2018,CO,Colorado,4440.0,-59.0
+2019,CO,Colorado,4340.0,-100.0
+2020,CO,Colorado,4206.0,-134.0
+2021,CO,Colorado,4129.0,-77.0
+2022,CO,Colorado,3804.0,-325.0
+2023,CO,Colorado,3804.0,0.0
+2024,CO,Colorado,3786.0,-18.0
+1990,CT,Connecticut,585.0,
+1991,CT,Connecticut,585.0,0.0
+1992,CT,Connecticut,585.0,0.0
+1993,CT,Connecticut,585.0,0.0
+1994,CT,Connecticut,585.0,0.0
+1995,CT,Connecticut,585.0,0.0
+1996,CT,Connecticut,585.0,0.0
+1997,CT,Connecticut,585.0,0.0
+1998,CT,Connecticut,585.0,0.0
+1999,CT,Connecticut,670.0,85.0
+2000,CT,Connecticut,548.0,-122.0
+2001,CT,Connecticut,555.0,7.0
+2002,CT,Connecticut,553.0,-2.0
+2003,CT,Connecticut,553.0,0.0
+2004,CT,Connecticut,553.0,0.0
+2005,CT,Connecticut,555.0,2.0
+2006,CT,Connecticut,551.0,-4.0
+2007,CT,Connecticut,551.0,0.0
+2008,CT,Connecticut,553.2,2.2
+2009,CT,Connecticut,564.4,11.2
+2010,CT,Connecticut,564.4,0.0
+2011,CT,Connecticut,564.4,0.0
+2012,CT,Connecticut,389.1,-175.3
+2013,CT,Connecticut,383.4,-5.7
+2014,CT,Connecticut,383.4,0.0
+2015,CT,Connecticut,383.4,0.0
+2016,CT,Connecticut,383.4,0.0
+2017,CT,Connecticut,383.4,0.0
+2018,CT,Connecticut,383.4,0.0
+2019,CT,Connecticut,383.4,0.0
+2020,CT,Connecticut,257.6,-125.8
+1990,DC,District of Columbia,3.0,
+1991,DC,District of Columbia,3.0,0.0
+1992,DC,District of Columbia,3.0,0.0
+1993,DC,District of Columbia,3.0,0.0
+1994,DC,District of Columbia,3.0,0.0
+1995,DC,District of Columbia,3.0,0.0
+1990,DE,Delaware,956.0,
+1991,DE,Delaware,968.0,12.0
+1992,DE,Delaware,968.0,0.0
+1993,DE,Delaware,968.0,0.0
+1994,DE,Delaware,968.0,0.0
+1995,DE,Delaware,947.0,-21.0
+1996,DE,Delaware,954.0,7.0
+1997,DE,Delaware,1046.0,92.0
+1998,DE,Delaware,1054.0,8.0
+1999,DE,Delaware,1054.0,0.0
+2000,DE,Delaware,1027.0,-27.0
+2001,DE,Delaware,1034.0,7.0
+2002,DE,Delaware,1050.0,16.0
+2003,DE,Delaware,1052.0,2.0
+2004,DE,Delaware,1070.0,18.0
+2005,DE,Delaware,1083.0,13.0
+2006,DE,Delaware,1083.0,0.0
+2007,DE,Delaware,1083.0,0.0
+2008,DE,Delaware,1083.0,0.0
+2009,DE,Delaware,1074.0,-9.0
+2010,DE,Delaware,1054.0,-20.0
+2011,DE,Delaware,794.0,-260.0
+2012,DE,Delaware,742.0,-52.0
+2013,DE,Delaware,575.0,-167.0
+2014,DE,Delaware,410.0,-165.0
+2015,DE,Delaware,410.0,0.0
+2016,DE,Delaware,410.0,0.0
+2017,DE,Delaware,410.0,0.0
+2018,DE,Delaware,410.0,0.0
+2019,DE,Delaware,410.0,0.0
+2020,DE,Delaware,410.0,0.0
+2021,DE,Delaware,410.0,0.0
+2022,DE,Delaware,410.0,0.0
+2023,DE,Delaware,410.0,0.0
+2024,DE,Delaware,410.0,0.0
+1990,FL,Florida,10214.0,
+1991,FL,Florida,10237.0,23.0
+1992,FL,Florida,10266.0,29.0
+1993,FL,Florida,10266.0,0.0
+1994,FL,Florida,10539.0,273.0
+1995,FL,Florida,10881.0,342.0
+1996,FL,Florida,11575.0,694.0
+1997,FL,Florida,11557.0,-18.0
+1998,FL,Florida,11488.0,-69.0
+1999,FL,Florida,11582.0,94.0
+2000,FL,Florida,11477.0,-105.0
+2001,FL,Florida,11589.0,112.0
+2002,FL,Florida,12107.0,518.0
+2003,FL,Florida,11022.0,-1085.0
+2004,FL,Florida,10422.0,-600.0
+2005,FL,Florida,10403.0,-19.0
+2006,FL,Florida,10333.0,-70.0
+2007,FL,Florida,10297.0,-36.0
+2008,FL,Florida,10265.4,-31.6
+2009,FL,Florida,10261.1,-4.3
+2010,FL,Florida,10195.1,-66.0
+2011,FL,Florida,10204.0,8.9
+2012,FL,Florida,10266.0,62.0
+2013,FL,Florida,10117.0,-149.0
+2014,FL,Florida,10177.0,60.0
+2015,FL,Florida,10591.0,414.0
+2016,FL,Florida,9881.0,-710.0
+2017,FL,Florida,9822.0,-59.0
+2018,FL,Florida,7804.0,-2018.0
+2019,FL,Florida,7782.0,-22.0
+2020,FL,Florida,6635.0,-1147.0
+2021,FL,Florida,4776.0,-1859.0
+2022,FL,Florida,4562.0,-214.0
+2023,FL,Florida,3989.7,-572.3
+2024,FL,Florida,3564.7,-425.0
+1990,GA,Georgia,13030.0,
+1991,GA,Georgia,13029.0,-1.0
+1992,GA,Georgia,13240.0,211.0
+1993,GA,Georgia,13179.0,-61.0
+1994,GA,Georgia,13229.0,50.0
+1995,GA,Georgia,12616.0,-613.0
+1996,GA,Georgia,13298.0,682.0
+1997,GA,Georgia,13273.0,-25.0
+1998,GA,Georgia,13591.0,318.0
+1999,GA,Georgia,13146.0,-445.0
+2000,GA,Georgia,13731.0,585.0
+2001,GA,Georgia,13816.0,85.0
+2002,GA,Georgia,13815.0,-1.0
+2003,GA,Georgia,13648.0,-167.0
+2004,GA,Georgia,13461.0,-187.0
+2005,GA,Georgia,13465.0,4.0
+2006,GA,Georgia,13438.0,-27.0
+2007,GA,Georgia,13275.0,-163.0
+2008,GA,Georgia,13255.6,-19.4
+2009,GA,Georgia,13210.6,-45.0
+2010,GA,Georgia,13229.6,19.0
+2011,GA,Georgia,12988.1,-241.5
+2012,GA,Georgia,12737.1,-251.0
+2013,GA,Georgia,12412.1,-325.0
+2014,GA,Georgia,12314.4,-97.7
+2015,GA,Georgia,9508.5,-2805.9
+2016,GA,Georgia,9360.5,-148.0
+2017,GA,Georgia,9360.5,0.0
+2018,GA,Georgia,9398.5,38.0
+2019,GA,Georgia,8416.0,-982.5
+2020,GA,Georgia,8416.0,0.0
+2021,GA,Georgia,8384.0,-32.0
+2022,GA,Georgia,5780.0,-2604.0
+2023,GA,Georgia,5780.0,0.0
+2024,GA,Georgia,5780.0,0.0
+1990,HI,Hawaii,22.0,
+1991,HI,Hawaii,22.0,0.0
+1992,HI,Hawaii,213.0,191.0
+1993,HI,Hawaii,213.0,0.0
+1994,HI,Hawaii,213.0,0.0
+1995,HI,Hawaii,213.0,0.0
+1996,HI,Hawaii,213.0,0.0
+1997,HI,Hawaii,213.0,0.0
+1998,HI,Hawaii,213.0,0.0
+1999,HI,Hawaii,213.0,0.0
+2000,HI,Hawaii,213.0,0.0
+2001,HI,Hawaii,202.0,-11.0
+2002,HI,Hawaii,202.0,0.0
+2003,HI,Hawaii,202.0,0.0
+2004,HI,Hawaii,180.0,-22.0
+2005,HI,Hawaii,180.0,0.0
+2006,HI,Hawaii,180.0,0.0
+2007,HI,Hawaii,180.0,0.0
+2008,HI,Hawaii,180.0,0.0
+2009,HI,Hawaii,180.0,0.0
+2010,HI,Hawaii,180.0,0.0
+2011,HI,Hawaii,180.0,0.0
+2012,HI,Hawaii,180.0,0.0
+2013,HI,Hawaii,180.0,0.0
+2014,HI,Hawaii,180.0,0.0
+2015,HI,Hawaii,180.0,0.0
+2016,HI,Hawaii,180.0,0.0
+2017,HI,Hawaii,180.0,0.0
+2018,HI,Hawaii,180.0,0.0
+2019,HI,Hawaii,180.0,0.0
+2020,HI,Hawaii,180.0,0.0
+2021,HI,Hawaii,180.0,0.0
+1990,IA,Iowa,5912.0,
+1991,IA,Iowa,6158.0,246.0
+1992,IA,Iowa,6063.0,-95.0
+1993,IA,Iowa,6077.0,14.0
+1994,IA,Iowa,6234.0,157.0
+1995,IA,Iowa,6283.0,49.0
+1996,IA,Iowa,6095.0,-188.0
+1997,IA,Iowa,6050.0,-45.0
+1998,IA,Iowa,6209.0,159.0
+1999,IA,Iowa,6210.0,1.0
+2000,IA,Iowa,6218.0,8.0
+2001,IA,Iowa,6088.0,-130.0
+2002,IA,Iowa,6039.0,-49.0
+2003,IA,Iowa,6086.0,47.0
+2004,IA,Iowa,6157.0,71.0
+2005,IA,Iowa,6137.0,-20.0
+2006,IA,Iowa,6097.0,-40.0
+2007,IA,Iowa,6967.0,870.0
+2008,IA,Iowa,6928.2,-38.8
+2009,IA,Iowa,7107.4,179.2
+2010,IA,Iowa,6956.4,-151.0
+2011,IA,Iowa,6934.7,-21.7
+2012,IA,Iowa,6683.4,-251.3
+2013,IA,Iowa,6562.3,-121.1
+2014,IA,Iowa,6563.0,0.7
+2015,IA,Iowa,6205.9,-357.1
+2016,IA,Iowa,5548.8,-657.1
+2017,IA,Iowa,5497.9,-50.9
+2018,IA,Iowa,5371.7,-126.2
+2019,IA,Iowa,5343.8,-27.9
+2020,IA,Iowa,5284.0,-59.8
+2021,IA,Iowa,5267.5,-16.5
+2022,IA,Iowa,5068.5,-199.0
+2023,IA,Iowa,4860.8,-207.7
+2024,IA,Iowa,4832.9,-27.9
+1990,ID,Idaho,12.0,
+1991,ID,Idaho,12.0,0.0
+1992,ID,Idaho,12.0,0.0
+1993,ID,Idaho,12.0,0.0
+1994,ID,Idaho,17.0,5.0
+1995,ID,Idaho,18.0,1.0
+1996,ID,Idaho,18.0,0.0
+1997,ID,Idaho,18.0,0.0
+1998,ID,Idaho,18.0,0.0
+1999,ID,Idaho,18.0,0.0
+2000,ID,Idaho,18.0,0.0
+2001,ID,Idaho,15.0,-3.0
+2002,ID,Idaho,16.0,1.0
+2003,ID,Idaho,17.0,1.0
+2004,ID,Idaho,17.0,0.0
+2005,ID,Idaho,17.0,0.0
+2006,ID,Idaho,17.0,0.0
+2007,ID,Idaho,17.0,0.0
+2008,ID,Idaho,17.2,0.2
+2009,ID,Idaho,17.2,0.0
+2010,ID,Idaho,17.2,0.0
+2011,ID,Idaho,17.2,0.0
+2012,ID,Idaho,17.2,0.0
+2013,ID,Idaho,17.2,0.0
+2014,ID,Idaho,17.2,0.0
+2015,ID,Idaho,17.2,0.0
+2016,ID,Idaho,8.5,-8.7
+2017,ID,Idaho,8.5,0.0
+2018,ID,Idaho,8.5,0.0
+2019,ID,Idaho,8.5,0.0
+2020,ID,Idaho,5.0,-3.5
+2021,ID,Idaho,5.0,0.0
+1990,IL,Illinois,15178.0,
+1991,IL,Illinois,15228.0,50.0
+1992,IL,Illinois,16244.0,1016.0
+1993,IL,Illinois,15391.0,-853.0
+1994,IL,Illinois,15461.0,70.0
+1995,IL,Illinois,15282.0,-179.0
+1996,IL,Illinois,15297.0,15.0
+1997,IL,Illinois,15732.0,435.0
+1998,IL,Illinois,15892.0,160.0
+1999,IL,Illinois,16335.0,443.0
+2000,IL,Illinois,16227.0,-108.0
+2001,IL,Illinois,15799.0,-428.0
+2002,IL,Illinois,15654.0,-145.0
+2003,IL,Illinois,15661.0,7.0
+2004,IL,Illinois,15691.0,30.0
+2005,IL,Illinois,15789.0,98.0
+2006,IL,Illinois,15731.0,-58.0
+2007,IL,Illinois,15582.0,-149.0
+2008,IL,Illinois,15652.5,70.5
+2009,IL,Illinois,15851.9,199.4
+2010,IL,Illinois,15551.0,-300.9
+2011,IL,Illinois,14857.2,-693.8
+2012,IL,Illinois,15574.0,716.8
+2013,IL,Illinois,15498.4,-75.6
+2014,IL,Illinois,15254.9,-243.5
+2015,IL,Illinois,15109.6,-145.3
+2016,IL,Illinois,14015.1,-1094.5
+2017,IL,Illinois,13966.0,-49.1
+2018,IL,Illinois,12626.0,-1340.0
+2019,IL,Illinois,10615.5,-2010.5
+2020,IL,Illinois,9652.0,-963.5
+2021,IL,Illinois,9547.8,-104.2
+2022,IL,Illinois,6853.5,-2694.3
+2023,IL,Illinois,6853.5,0.0
+2024,IL,Illinois,6694.5,-159.0
+1990,IN,Indiana,19763.0,
+1991,IN,Indiana,19795.0,32.0
+1992,IN,Indiana,19748.0,-47.0
+1993,IN,Indiana,19748.0,0.0
+1994,IN,Indiana,19396.0,-352.0
+1995,IN,Indiana,19080.0,-316.0
+1996,IN,Indiana,19281.0,201.0
+1997,IN,Indiana,18611.0,-670.0
+1998,IN,Indiana,19476.0,865.0
+1999,IN,Indiana,19208.0,-268.0
+2000,IN,Indiana,19392.0,184.0
+2001,IN,Indiana,19457.0,65.0
+2002,IN,Indiana,19940.0,483.0
+2003,IN,Indiana,19690.0,-250.0
+2004,IN,Indiana,19716.0,26.0
+2005,IN,Indiana,19745.0,29.0
+2006,IN,Indiana,19718.0,-27.0
+2007,IN,Indiana,19759.0,41.0
+2008,IN,Indiana,19720.5,-38.5
+2009,IN,Indiana,19756.9,36.4
+2010,IN,Indiana,19370.4,-386.5
+2011,IN,Indiana,18949.4,-421.0
+2012,IN,Indiana,18140.4,-809.0
+2013,IN,Indiana,18648.2,507.8
+2014,IN,Indiana,18599.0,-49.2
+2015,IN,Indiana,17384.9,-1214.1
+2016,IN,Indiana,15776.8,-1608.1
+2017,IN,Indiana,15761.4,-15.4
+2018,IN,Indiana,15291.4,-470.0
+2019,IN,Indiana,15245.7,-45.7
+2020,IN,Indiana,15241.9,-3.8
+2021,IN,Indiana,13835.2,-1406.7
+2022,IN,Indiana,13842.5,7.3
+2023,IN,Indiana,12847.2,-995.3
+2024,IN,Indiana,12721.4,-125.8
+1990,KS,Kansas,5064.0,
+1991,KS,Kansas,5091.0,27.0
+1992,KS,Kansas,5189.0,98.0
+1993,KS,Kansas,5189.0,0.0
+1994,KS,Kansas,5220.0,31.0
+1995,KS,Kansas,5244.0,24.0
+1996,KS,Kansas,5256.0,12.0
+1997,KS,Kansas,5364.0,108.0
+1998,KS,Kansas,5407.0,43.0
+1999,KS,Kansas,5325.0,-82.0
+2000,KS,Kansas,5295.0,-30.0
+2001,KS,Kansas,5295.0,0.0
+2002,KS,Kansas,5310.0,15.0
+2003,KS,Kansas,5265.0,-45.0
+2004,KS,Kansas,5222.0,-43.0
+2005,KS,Kansas,5250.0,28.0
+2006,KS,Kansas,5203.0,-47.0
+2007,KS,Kansas,5208.0,5.0
+2008,KS,Kansas,5190.0,-18.0
+2009,KS,Kansas,5180.0,-10.0
+2010,KS,Kansas,5179.0,-1.0
+2011,KS,Kansas,5188.2,9.2
+2012,KS,Kansas,5223.0,34.8
+2013,KS,Kansas,5188.1,-34.9
+2014,KS,Kansas,5097.1,-91.0
+2015,KS,Kansas,4687.2,-409.9
+2016,KS,Kansas,4683.2,-4.0
+2017,KS,Kansas,4714.2,31.0
+2018,KS,Kansas,4670.2,-44.0
+2019,KS,Kansas,4678.5,8.3
+2020,KS,Kansas,4521.6,-156.9
+2021,KS,Kansas,4524.6,3.0
+2022,KS,Kansas,4521.4,-3.2
+2023,KS,Kansas,4524.7,3.3
+2024,KS,Kansas,4695.0,170.3
+1990,KY,Kentucky,14306.0,
+1991,KY,Kentucky,14129.0,-177.0
+1992,KY,Kentucky,14093.0,-36.0
+1993,KY,Kentucky,14093.0,0.0
+1994,KY,Kentucky,14075.0,-18.0
+1995,KY,Kentucky,14011.0,-64.0
+1996,KY,Kentucky,14045.0,34.0
+1997,KY,Kentucky,14135.0,90.0
+1998,KY,Kentucky,14423.0,288.0
+1999,KY,Kentucky,14416.0,-7.0
+2000,KY,Kentucky,14465.0,49.0
+2001,KY,Kentucky,14277.0,-188.0
+2002,KY,Kentucky,14212.0,-65.0
+2003,KY,Kentucky,14151.0,-61.0
+2004,KY,Kentucky,14157.0,6.0
+2005,KY,Kentucky,14337.0,180.0
+2006,KY,Kentucky,14386.0,49.0
+2007,KY,Kentucky,14374.0,-12.0
+2008,KY,Kentucky,14301.1,-72.9
+2009,KY,Kentucky,14552.9,251.8
+2010,KY,Kentucky,14566.1,13.2
+2011,KY,Kentucky,15289.5,723.4
+2012,KY,Kentucky,15293.3,3.8
+2013,KY,Kentucky,15219.7,-73.6
+2014,KY,Kentucky,15089.7,-130.0
+2015,KY,Kentucky,13436.7,-1653.0
+2016,KY,Kentucky,13092.8,-343.9
+2017,KY,Kentucky,11862.8,-1230.0
+2018,KY,Kentucky,11862.8,0.0
+2019,KY,Kentucky,11281.8,-581.0
+2020,KY,Kentucky,9403.0,-1878.8
+2021,KY,Kentucky,9403.0,0.0
+2022,KY,Kentucky,9180.0,-223.0
+2023,KY,Kentucky,9162.0,-18.0
+2024,KY,Kentucky,8631.0,-531.0
+1990,LA,Louisiana,3357.0,
+1991,LA,Louisiana,3351.0,-6.0
+1992,LA,Louisiana,3351.0,0.0
+1993,LA,Louisiana,3351.0,0.0
+1994,LA,Louisiana,3351.0,0.0
+1995,LA,Louisiana,2851.0,-500.0
+1996,LA,Louisiana,3461.0,610.0
+1997,LA,Louisiana,3461.0,0.0
+1998,LA,Louisiana,3448.0,-13.0
+1999,LA,Louisiana,3453.0,5.0
+2000,LA,Louisiana,3506.0,53.0
+2001,LA,Louisiana,3506.0,0.0
+2002,LA,Louisiana,3453.0,-53.0
+2003,LA,Louisiana,3453.0,0.0
+2004,LA,Louisiana,3453.0,0.0
+2005,LA,Louisiana,3453.0,0.0
+2006,LA,Louisiana,3453.0,0.0
+2007,LA,Louisiana,3482.0,29.0
+2008,LA,Louisiana,3482.0,0.0
+2009,LA,Louisiana,3482.0,0.0
+2010,LA,Louisiana,3417.0,-65.0
+2011,LA,Louisiana,3424.0,7.0
+2012,LA,Louisiana,3414.0,-10.0
+2013,LA,Louisiana,3437.8,23.8
+2014,LA,Louisiana,3418.6,-19.2
+2015,LA,Louisiana,2855.1,-563.5
+2016,LA,Louisiana,2852.9,-2.2
+2017,LA,Louisiana,2832.6,-20.3
+2018,LA,Louisiana,2833.7,1.1
+2019,LA,Louisiana,2837.1,3.4
+2020,LA,Louisiana,2764.0,-73.1
+2021,LA,Louisiana,2114.3,-649.7
+2022,LA,Louisiana,2074.1,-40.2
+2023,LA,Louisiana,2069.5,-4.6
+2024,LA,Louisiana,2121.6,52.1
+1990,MA,Massachusetts,1741.0,
+1991,MA,Massachusetts,1732.0,-9.0
+1992,MA,Massachusetts,1710.0,-22.0
+1993,MA,Massachusetts,1710.0,0.0
+1994,MA,Massachusetts,1637.0,-73.0
+1995,MA,Massachusetts,1738.0,101.0
+1996,MA,Massachusetts,1761.0,23.0
+1997,MA,Massachusetts,2359.0,598.0
+1998,MA,Massachusetts,2568.0,209.0
+1999,MA,Massachusetts,2038.0,-530.0
+2000,MA,Massachusetts,1597.0,-441.0
+2001,MA,Massachusetts,1645.0,48.0
+2002,MA,Massachusetts,1689.0,44.0
+2003,MA,Massachusetts,1659.0,-30.0
+2004,MA,Massachusetts,1723.0,64.0
+2005,MA,Massachusetts,1743.0,20.0
+2006,MA,Massachusetts,1743.0,0.0
+2007,MA,Massachusetts,1744.0,1.0
+2008,MA,Massachusetts,1662.0,-82.0
+2009,MA,Massachusetts,1668.3,6.3
+2010,MA,Massachusetts,1668.5,0.2
+2011,MA,Massachusetts,1559.8,-108.7
+2012,MA,Massachusetts,1538.1,-21.7
+2013,MA,Massachusetts,1380.4,-157.7
+2014,MA,Massachusetts,1074.5,-305.9
+2015,MA,Massachusetts,1071.0,-3.5
+2016,MA,Massachusetts,1038.0,-33.0
+1990,MD,Maryland,4045.0,
+1991,MD,Maryland,4677.0,632.0
+1992,MD,Maryland,4688.0,11.0
+1993,MD,Maryland,4688.0,0.0
+1994,MD,Maryland,4691.0,3.0
+1995,MD,Maryland,4696.0,5.0
+1996,MD,Maryland,4696.0,0.0
+1997,MD,Maryland,4707.0,11.0
+1998,MD,Maryland,4707.0,0.0
+1999,MD,Maryland,4895.0,188.0
+2000,MD,Maryland,4752.0,-143.0
+2001,MD,Maryland,4586.0,-166.0
+2002,MD,Maryland,4897.0,311.0
+2003,MD,Maryland,4957.0,60.0
+2004,MD,Maryland,4958.0,1.0
+2005,MD,Maryland,4958.0,0.0
+2006,MD,Maryland,4958.0,0.0
+2007,MD,Maryland,4958.0,0.0
+2008,MD,Maryland,4944.0,-14.0
+2009,MD,Maryland,4876.0,-68.0
+2010,MD,Maryland,4886.0,10.0
+2011,MD,Maryland,4896.0,10.0
+2012,MD,Maryland,4757.0,-139.0
+2013,MD,Maryland,4757.0,0.0
+2014,MD,Maryland,4739.0,-18.0
+2015,MD,Maryland,4712.0,-27.0
+2016,MD,Maryland,4712.0,0.0
+2017,MD,Maryland,4712.0,0.0
+2018,MD,Maryland,4327.0,-385.0
+2019,MD,Maryland,4270.0,-57.0
+2020,MD,Maryland,3633.0,-637.0
+2021,MD,Maryland,2963.0,-670.0
+2022,MD,Maryland,1758.0,-1205.0
+2023,MD,Maryland,1453.0,-305.0
+2024,MD,Maryland,1273.0,-180.0
+1990,ME,Maine,100.0,
+1991,ME,Maine,100.0,0.0
+1992,ME,Maine,100.0,0.0
+1993,ME,Maine,100.0,0.0
+1994,ME,Maine,96.0,-4.0
+1995,ME,Maine,96.0,0.0
+1996,ME,Maine,96.0,0.0
+1997,ME,Maine,96.0,0.0
+1998,ME,Maine,96.0,0.0
+1999,ME,Maine,96.0,0.0
+2000,ME,Maine,96.0,0.0
+2001,ME,Maine,85.0,-11.0
+2002,ME,Maine,148.0,63.0
+2003,ME,Maine,85.0,-63.0
+2004,ME,Maine,85.0,0.0
+2005,ME,Maine,85.0,0.0
+2006,ME,Maine,85.0,0.0
+2007,ME,Maine,85.0,0.0
+2008,ME,Maine,85.0,0.0
+2009,ME,Maine,85.0,0.0
+2010,ME,Maine,85.0,0.0
+2011,ME,Maine,85.0,0.0
+2012,ME,Maine,85.0,0.0
+2013,ME,Maine,85.0,0.0
+2014,ME,Maine,85.0,0.0
+1990,MI,Michigan,12588.0,
+1991,MI,Michigan,12551.0,-37.0
+1992,MI,Michigan,12545.0,-6.0
+1993,MI,Michigan,12552.0,7.0
+1994,MI,Michigan,12563.0,11.0
+1995,MI,Michigan,12449.0,-114.0
+1996,MI,Michigan,12455.0,6.0
+1997,MI,Michigan,12432.0,-23.0
+1998,MI,Michigan,12197.0,-235.0
+1999,MI,Michigan,11936.0,-261.0
+2000,MI,Michigan,11965.0,29.0
+2001,MI,Michigan,11929.0,-36.0
+2002,MI,Michigan,11981.0,52.0
+2003,MI,Michigan,11989.0,8.0
+2004,MI,Michigan,11976.0,-13.0
+2005,MI,Michigan,11982.0,6.0
+2006,MI,Michigan,11860.0,-122.0
+2007,MI,Michigan,11910.0,50.0
+2008,MI,Michigan,11920.6,10.6
+2009,MI,Michigan,11793.5,-127.1
+2010,MI,Michigan,11531.2,-262.3
+2011,MI,Michigan,11346.6,-184.6
+2012,MI,Michigan,11261.8,-84.8
+2013,MI,Michigan,10946.5,-315.3
+2014,MI,Michigan,10948.4,1.9
+2015,MI,Michigan,10837.5,-110.9
+2016,MI,Michigan,9414.2,-1423.3
+2017,MI,Michigan,9216.7,-197.5
+2018,MI,Michigan,9190.4,-26.3
+2019,MI,Michigan,8590.3,-600.1
+2020,MI,Michigan,8329.3,-261.0
+2021,MI,Michigan,8034.9,-294.4
+2022,MI,Michigan,6291.1,-1743.8
+2023,MI,Michigan,5801.9,-489.2
+2024,MI,Michigan,5732.3,-69.6
+1990,MN,Minnesota,6108.0,
+1991,MN,Minnesota,6137.0,29.0
+1992,MN,Minnesota,6055.0,-82.0
+1993,MN,Minnesota,6053.0,-2.0
+1994,MN,Minnesota,6082.0,29.0
+1995,MN,Minnesota,5975.0,-107.0
+1996,MN,Minnesota,6087.0,112.0
+1997,MN,Minnesota,6160.0,73.0
+1998,MN,Minnesota,6001.0,-159.0
+1999,MN,Minnesota,5950.0,-51.0
+2000,MN,Minnesota,5968.0,18.0
+2001,MN,Minnesota,5886.0,-82.0
+2002,MN,Minnesota,5885.0,-1.0
+2003,MN,Minnesota,5701.0,-184.0
+2004,MN,Minnesota,5621.0,-80.0
+2005,MN,Minnesota,5446.0,-175.0
+2006,MN,Minnesota,5444.0,-2.0
+2007,MN,Minnesota,5207.0,-237.0
+2008,MN,Minnesota,5235.2,28.2
+2009,MN,Minnesota,4825.5,-409.7
+2010,MN,Minnesota,4788.5,-37.0
+2011,MN,Minnesota,4709.5,-79.0
+2012,MN,Minnesota,4696.5,-13.0
+2013,MN,Minnesota,4822.3,125.8
+2014,MN,Minnesota,4788.1,-34.2
+2015,MN,Minnesota,4300.1,-488.0
+2016,MN,Minnesota,4308.5,8.4
+2017,MN,Minnesota,4309.4,0.9
+2018,MN,Minnesota,4157.9,-151.5
+2019,MN,Minnesota,4180.5,22.6
+2020,MN,Minnesota,4147.1,-33.4
+2021,MN,Minnesota,4009.1,-138.0
+2022,MN,Minnesota,3978.6,-30.5
+2023,MN,Minnesota,3141.7,-836.9
+2024,MN,Minnesota,3135.5,-6.2
+1990,MO,Missouri,10830.0,
+1991,MO,Missouri,10880.0,50.0
+1992,MO,Missouri,10897.0,17.0
+1993,MO,Missouri,10897.0,0.0
+1994,MO,Missouri,10908.0,11.0
+1995,MO,Missouri,10671.0,-237.0
+1996,MO,Missouri,10653.0,-18.0
+1997,MO,Missouri,11014.0,361.0
+1998,MO,Missouri,11036.0,22.0
+1999,MO,Missouri,10982.0,-54.0
+2000,MO,Missouri,11125.0,143.0
+2001,MO,Missouri,11127.0,2.0
+2002,MO,Missouri,11148.0,21.0
+2003,MO,Missouri,11267.0,119.0
+2004,MO,Missouri,11257.0,-10.0
+2005,MO,Missouri,11273.0,16.0
+2006,MO,Missouri,11299.0,26.0
+2007,MO,Missouri,11259.0,-40.0
+2008,MO,Missouri,11240.0,-19.0
+2009,MO,Missouri,11231.0,-9.0
+2010,MO,Missouri,12070.1,839.1
+2011,MO,Missouri,12424.7,354.6
+2012,MO,Missouri,12457.5,32.8
+2013,MO,Missouri,12332.9,-124.6
+2014,MO,Missouri,12326.6,-6.3
+2015,MO,Missouri,12156.5,-170.1
+2016,MO,Missouri,11726.1,-430.4
+2017,MO,Missouri,11260.8,-465.3
+2018,MO,Missouri,10470.9,-789.9
+2019,MO,Missouri,10464.5,-6.4
+2020,MO,Missouri,10488.0,23.5
+2021,MO,Missouri,10242.2,-245.8
+2022,MO,Missouri,9656.2,-586.0
+2023,MO,Missouri,9714.2,58.0
+2024,MO,Missouri,8539.2,-1175.0
+1990,MS,Mississippi,2244.0,
+1991,MS,Mississippi,2246.0,2.0
+1992,MS,Mississippi,2238.0,-8.0
+1993,MS,Mississippi,2238.0,0.0
+1994,MS,Mississippi,2228.0,-10.0
+1995,MS,Mississippi,2255.0,27.0
+1996,MS,Mississippi,2255.0,0.0
+1997,MS,Mississippi,2131.0,-124.0
+1998,MS,Mississippi,2136.0,5.0
+1999,MS,Mississippi,2121.0,-15.0
+2000,MS,Mississippi,2208.0,87.0
+2001,MS,Mississippi,2208.0,0.0
+2002,MS,Mississippi,2665.0,457.0
+2003,MS,Mississippi,2671.0,6.0
+2004,MS,Mississippi,2660.0,-11.0
+2005,MS,Mississippi,2563.0,-97.0
+2006,MS,Mississippi,2548.0,-15.0
+2007,MS,Mississippi,2542.0,-6.0
+2008,MS,Mississippi,2554.9,12.9
+2009,MS,Mississippi,2554.9,0.0
+2010,MS,Mississippi,2526.0,-28.9
+2011,MS,Mississippi,2526.0,0.0
+2012,MS,Mississippi,2526.0,0.0
+2013,MS,Mississippi,2526.0,0.0
+2014,MS,Mississippi,2526.0,0.0
+2015,MS,Mississippi,1820.0,-706.0
+2016,MS,Mississippi,1820.0,0.0
+2017,MS,Mississippi,1804.0,-16.0
+2018,MS,Mississippi,1444.0,-360.0
+2019,MS,Mississippi,1444.0,0.0
+2020,MS,Mississippi,1444.0,0.0
+2021,MS,Mississippi,1444.0,0.0
+2022,MS,Mississippi,1444.0,0.0
+2023,MS,Mississippi,1444.0,0.0
+2024,MS,Mississippi,1444.0,0.0
+1990,MT,Montana,2299.0,
+1991,MT,Montana,2299.0,0.0
+1992,MT,Montana,2299.0,0.0
+1993,MT,Montana,2299.0,0.0
+1994,MT,Montana,2299.0,0.0
+1995,MT,Montana,2299.0,0.0
+1996,MT,Montana,2299.0,0.0
+1997,MT,Montana,2333.0,34.0
+1998,MT,Montana,2339.0,6.0
+1999,MT,Montana,3013.0,674.0
+2000,MT,Montana,2987.0,-26.0
+2001,MT,Montana,2335.0,-652.0
+2002,MT,Montana,2296.0,-39.0
+2003,MT,Montana,2300.0,4.0
+2004,MT,Montana,2335.0,35.0
+2005,MT,Montana,2339.0,4.0
+2006,MT,Montana,2460.0,121.0
+2007,MT,Montana,2458.0,-2.0
+2008,MT,Montana,2442.3,-15.7
+2009,MT,Montana,2442.3,0.0
+2010,MT,Montana,2442.3,0.0
+2011,MT,Montana,2442.1,-0.2
+2012,MT,Montana,2442.1,0.0
+2013,MT,Montana,2442.1,0.0
+2014,MT,Montana,2419.1,-23.0
+2015,MT,Montana,2293.1,-126.0
+2016,MT,Montana,2293.1,0.0
+2017,MT,Montana,2293.1,0.0
+2018,MT,Montana,2297.6,4.5
+2019,MT,Montana,2297.6,0.0
+2020,MT,Montana,1683.6,-614.0
+2021,MT,Montana,1630.5,-53.1
+2022,MT,Montana,1630.5,0.0
+2023,MT,Montana,1626.5,-4.0
+2024,MT,Montana,1626.5,0.0
+1990,NC,North Carolina,13049.0,
+1991,NC,North Carolina,13078.0,29.0
+1992,NC,North Carolina,13169.0,91.0
+1993,NC,North Carolina,13185.0,16.0
+1994,NC,North Carolina,13356.0,171.0
+1995,NC,North Carolina,13405.0,49.0
+1996,NC,North Carolina,13401.0,-4.0
+1997,NC,North Carolina,13352.0,-49.0
+1998,NC,North Carolina,13266.0,-86.0
+1999,NC,North Carolina,13264.0,-2.0
+2000,NC,North Carolina,13365.0,101.0
+2001,NC,North Carolina,13322.0,-43.0
+2002,NC,North Carolina,13268.0,-54.0
+2003,NC,North Carolina,13268.0,0.0
+2004,NC,North Carolina,13226.0,-42.0
+2005,NC,North Carolina,13196.0,-30.0
+2006,NC,North Carolina,13113.0,-83.0
+2007,NC,North Carolina,13068.0,-45.0
+2008,NC,North Carolina,13068.8,0.8
+2009,NC,North Carolina,12951.8,-117.0
+2010,NC,North Carolina,12765.8,-186.0
+2011,NC,North Carolina,12250.8,-515.0
+2012,NC,North Carolina,12104.8,-146.0
+2013,NC,North Carolina,10794.8,-1310.0
+2014,NC,North Carolina,10832.8,38.0
+2015,NC,North Carolina,10802.8,-30.0
+2016,NC,North Carolina,10745.8,-57.0
+2017,NC,North Carolina,10536.8,-209.0
+2018,NC,North Carolina,10504.8,-32.0
+2019,NC,North Carolina,10389.2,-115.6
+2020,NC,North Carolina,9935.7,-453.5
+2021,NC,North Carolina,9258.7,-677.0
+2022,NC,North Carolina,4594.0,-4664.7
+2023,NC,North Carolina,4552.0,-42.0
+2024,NC,North Carolina,5561.0,1009.0
+1990,ND,North Dakota,3847.0,
+1991,ND,North Dakota,3874.0,27.0
+1992,ND,North Dakota,3874.0,0.0
+1993,ND,North Dakota,3874.0,0.0
+1994,ND,North Dakota,3885.0,11.0
+1995,ND,North Dakota,3880.0,-5.0
+1996,ND,North Dakota,3603.0,-277.0
+1997,ND,North Dakota,4080.0,477.0
+1998,ND,North Dakota,4086.0,6.0
+1999,ND,North Dakota,4103.0,17.0
+2000,ND,North Dakota,4127.0,24.0
+2001,ND,North Dakota,4128.0,1.0
+2002,ND,North Dakota,4105.0,-23.0
+2003,ND,North Dakota,4129.0,24.0
+2004,ND,North Dakota,4126.0,-3.0
+2005,ND,North Dakota,4127.0,1.0
+2006,ND,North Dakota,4127.0,0.0
+2007,ND,North Dakota,4119.0,-8.0
+2008,ND,North Dakota,4119.2,0.2
+2009,ND,North Dakota,4148.3,29.1
+2010,ND,North Dakota,4152.7,4.4
+2011,ND,North Dakota,4147.3,-5.4
+2012,ND,North Dakota,4141.1,-6.2
+2013,ND,North Dakota,4128.4,-12.7
+2014,ND,North Dakota,4184.6,56.2
+2015,ND,North Dakota,4214.4,29.8
+2016,ND,North Dakota,4222.5,8.1
+2017,ND,North Dakota,4042.4,-180.1
+2018,ND,North Dakota,4042.4,0.0
+2019,ND,North Dakota,3948.8,-93.6
+2020,ND,North Dakota,3948.8,0.0
+2021,ND,North Dakota,4018.5,69.7
+2022,ND,North Dakota,3931.4,-87.1
+2023,ND,North Dakota,3832.5,-98.9
+2024,ND,North Dakota,3831.9,-0.6
+1990,NE,Nebraska,3102.0,
+1991,NE,Nebraska,3095.0,-7.0
+1992,NE,Nebraska,3111.0,16.0
+1993,NE,Nebraska,3111.0,0.0
+1994,NE,Nebraska,3120.0,9.0
+1995,NE,Nebraska,3122.0,2.0
+1996,NE,Nebraska,3119.0,-3.0
+1997,NE,Nebraska,3159.0,40.0
+1998,NE,Nebraska,3176.0,17.0
+1999,NE,Nebraska,3189.0,13.0
+2000,NE,Nebraska,3189.0,0.0
+2001,NE,Nebraska,3189.0,0.0
+2002,NE,Nebraska,3204.0,15.0
+2003,NE,Nebraska,3204.0,0.0
+2004,NE,Nebraska,3204.0,0.0
+2005,NE,Nebraska,3204.0,0.0
+2006,NE,Nebraska,3204.0,0.0
+2007,NE,Nebraska,3204.0,0.0
+2008,NE,Nebraska,3203.7,-0.3
+2009,NE,Nebraska,3871.2,667.5
+2010,NE,Nebraska,3932.2,61.0
+2011,NE,Nebraska,4160.2,228.0
+2012,NE,Nebraska,4145.7,-14.5
+2013,NE,Nebraska,4170.5,24.8
+2014,NE,Nebraska,4167.9,-2.6
+2015,NE,Nebraska,4016.0,-151.9
+2016,NE,Nebraska,3817.3,-198.7
+2017,NE,Nebraska,3817.3,0.0
+2018,NE,Nebraska,3867.0,49.7
+2019,NE,Nebraska,3867.0,0.0
+2020,NE,Nebraska,3867.0,0.0
+2021,NE,Nebraska,3867.0,0.0
+2022,NE,Nebraska,3845.6,-21.4
+2023,NE,Nebraska,3825.8,-19.8
+2024,NE,Nebraska,3817.9,-7.9
+1990,NH,New Hampshire,622.0,
+1991,NH,New Hampshire,622.0,0.0
+1992,NH,New Hampshire,578.0,-44.0
+1993,NH,New Hampshire,578.0,0.0
+1994,NH,New Hampshire,578.0,0.0
+1995,NH,New Hampshire,578.0,0.0
+1996,NH,New Hampshire,578.0,0.0
+1997,NH,New Hampshire,578.0,0.0
+1998,NH,New Hampshire,578.0,0.0
+1999,NH,New Hampshire,578.0,0.0
+2000,NH,New Hampshire,575.0,-3.0
+2001,NH,New Hampshire,575.0,0.0
+2002,NH,New Hampshire,575.0,0.0
+2003,NH,New Hampshire,575.0,0.0
+2004,NH,New Hampshire,575.0,0.0
+2005,NH,New Hampshire,575.0,0.0
+2006,NH,New Hampshire,528.0,-47.0
+2007,NH,New Hampshire,528.0,0.0
+2008,NH,New Hampshire,527.9,-0.1
+2009,NH,New Hampshire,527.9,0.0
+2010,NH,New Hampshire,546.3,18.4
+2011,NH,New Hampshire,546.3,0.0
+2012,NH,New Hampshire,533.9,-12.4
+2013,NH,New Hampshire,533.9,0.0
+2014,NH,New Hampshire,533.9,0.0
+2015,NH,New Hampshire,533.9,0.0
+2016,NH,New Hampshire,533.9,0.0
+2017,NH,New Hampshire,533.9,0.0
+2018,NH,New Hampshire,533.9,0.0
+2019,NH,New Hampshire,533.9,0.0
+2020,NH,New Hampshire,533.9,0.0
+2021,NH,New Hampshire,533.9,0.0
+2022,NH,New Hampshire,533.9,0.0
+2023,NH,New Hampshire,533.9,0.0
+2024,NH,New Hampshire,533.9,0.0
+1990,NJ,New Jersey,1652.0,
+1991,NJ,New Jersey,1652.0,0.0
+1992,NJ,New Jersey,1644.0,-8.0
+1993,NJ,New Jersey,1906.0,262.0
+1994,NJ,New Jersey,2117.0,211.0
+1995,NJ,New Jersey,2112.0,-5.0
+1996,NJ,New Jersey,2112.0,0.0
+1997,NJ,New Jersey,2118.0,6.0
+1998,NJ,New Jersey,2141.0,23.0
+1999,NJ,New Jersey,2126.0,-15.0
+2000,NJ,New Jersey,2008.0,-118.0
+2001,NJ,New Jersey,2088.0,80.0
+2002,NJ,New Jersey,2124.0,36.0
+2003,NJ,New Jersey,2124.0,0.0
+2004,NJ,New Jersey,2124.0,0.0
+2005,NJ,New Jersey,2077.0,-47.0
+2006,NJ,New Jersey,2124.0,47.0
+2007,NJ,New Jersey,2054.0,-70.0
+2008,NJ,New Jersey,2054.0,0.0
+2009,NJ,New Jersey,2064.5,10.5
+2010,NJ,New Jersey,2036.4,-28.1
+2011,NJ,New Jersey,2000.9,-35.5
+2012,NJ,New Jersey,2006.6,5.7
+2013,NJ,New Jersey,1988.8,-17.8
+2014,NJ,New Jersey,1870.0,-118.8
+2015,NJ,New Jersey,1245.0,-625.0
+2016,NJ,New Jersey,1245.0,0.0
+2017,NJ,New Jersey,609.0,-636.0
+2018,NJ,New Jersey,609.0,0.0
+2019,NJ,New Jersey,463.0,-146.0
+2020,NJ,New Jersey,463.0,0.0
+2021,NJ,New Jersey,463.0,0.0
+1990,NM,New Mexico,3899.0,
+1991,NM,New Mexico,3901.0,2.0
+1992,NM,New Mexico,3901.0,0.0
+1993,NM,New Mexico,3901.0,0.0
+1994,NM,New Mexico,3901.0,0.0
+1995,NM,New Mexico,3901.0,0.0
+1996,NM,New Mexico,3901.0,0.0
+1997,NM,New Mexico,3901.0,0.0
+1998,NM,New Mexico,3913.0,12.0
+1999,NM,New Mexico,3942.0,29.0
+2000,NM,New Mexico,3942.0,0.0
+2001,NM,New Mexico,3942.0,0.0
+2002,NM,New Mexico,3942.0,0.0
+2003,NM,New Mexico,3942.0,0.0
+2004,NM,New Mexico,3937.0,-5.0
+2005,NM,New Mexico,3957.0,20.0
+2006,NM,New Mexico,3957.0,0.0
+2007,NM,New Mexico,3957.0,0.0
+2008,NM,New Mexico,3956.9,-0.1
+2009,NM,New Mexico,3976.9,20.0
+2010,NM,New Mexico,3990.0,13.1
+2011,NM,New Mexico,3990.0,0.0
+2012,NM,New Mexico,4031.0,41.0
+2013,NM,New Mexico,3471.0,-560.0
+2014,NM,New Mexico,3471.0,0.0
+2015,NM,New Mexico,3471.0,0.0
+2016,NM,New Mexico,3471.0,0.0
+2017,NM,New Mexico,2634.0,-837.0
+2018,NM,New Mexico,2640.0,6.0
+2019,NM,New Mexico,2640.0,0.0
+2020,NM,New Mexico,2387.0,-253.0
+2021,NM,New Mexico,2387.0,0.0
+2022,NM,New Mexico,1540.0,-847.0
+2023,NM,New Mexico,1540.0,0.0
+2024,NM,New Mexico,1540.0,0.0
+1990,NV,Nevada,2692.0,
+1991,NV,Nevada,2692.0,0.0
+1992,NV,Nevada,2717.0,25.0
+1993,NV,Nevada,2717.0,0.0
+1994,NV,Nevada,2717.0,0.0
+1995,NV,Nevada,2717.0,0.0
+1996,NV,Nevada,2807.0,90.0
+1997,NV,Nevada,2806.0,-1.0
+1998,NV,Nevada,2806.0,0.0
+1999,NV,Nevada,2806.0,0.0
+2000,NV,Nevada,2806.0,0.0
+2001,NV,Nevada,2747.0,-59.0
+2002,NV,Nevada,2658.0,-89.0
+2003,NV,Nevada,2657.0,-1.0
+2004,NV,Nevada,2657.0,0.0
+2005,NV,Nevada,2657.0,0.0
+2006,NV,Nevada,2657.0,0.0
+2007,NV,Nevada,2689.0,32.0
+2008,NV,Nevada,2915.8,226.8
+2009,NV,Nevada,2915.8,0.0
+2010,NV,Nevada,2873.4,-42.4
+2011,NV,Nevada,2873.4,0.0
+2012,NV,Nevada,1293.4,-1580.0
+2013,NV,Nevada,1295.4,2.0
+2014,NV,Nevada,997.4,-298.0
+2015,NV,Nevada,997.4,0.0
+2016,NV,Nevada,997.4,0.0
+2017,NV,Nevada,740.4,-257.0
+2018,NV,Nevada,740.4,0.0
+2019,NV,Nevada,740.4,0.0
+2020,NV,Nevada,740.4,0.0
+2021,NV,Nevada,740.4,0.0
+2022,NV,Nevada,740.4,0.0
+2023,NV,Nevada,740.4,0.0
+2024,NV,Nevada,740.4,0.0
+1990,NY,New York,4151.0,
+1991,NY,New York,4275.0,124.0
+1992,NY,New York,4254.0,-21.0
+1993,NY,New York,4275.0,21.0
+1994,NY,New York,4251.0,-24.0
+1995,NY,New York,4266.0,15.0
+1996,NY,New York,4287.0,21.0
+1997,NY,New York,4252.0,-35.0
+1998,NY,New York,4286.0,34.0
+1999,NY,New York,3606.0,-680.0
+2000,NY,New York,3935.0,329.0
+2001,NY,New York,4113.0,178.0
+2002,NY,New York,4084.0,-29.0
+2003,NY,New York,4095.0,11.0
+2004,NY,New York,4063.0,-32.0
+2005,NY,New York,4218.0,155.0
+2006,NY,New York,4014.0,-204.0
+2007,NY,New York,3570.0,-444.0
+2008,NY,New York,2899.4,-670.6
+2009,NY,New York,2804.4,-95.0
+2010,NY,New York,2825.6,21.2
+2011,NY,New York,2813.1,-12.5
+2012,NY,New York,2703.7,-109.4
+2013,NY,New York,2507.3,-196.4
+2014,NY,New York,2498.9,-8.4
+2015,NY,New York,2129.6,-369.3
+2016,NY,New York,1747.4,-382.2
+2017,NY,New York,1640.2,-107.2
+2018,NY,New York,1631.5,-8.7
+2019,NY,New York,1336.5,-295.0
+2020,NY,New York,520.0,-816.5
+2021,NY,New York,445.0,-75.0
+1990,OH,Ohio,21925.0,
+1991,OH,Ohio,23502.0,1577.0
+1992,OH,Ohio,22708.0,-794.0
+1993,OH,Ohio,22708.0,0.0
+1994,OH,Ohio,22857.0,149.0
+1995,OH,Ohio,23321.0,464.0
+1996,OH,Ohio,23232.0,-89.0
+1997,OH,Ohio,22613.0,-619.0
+1998,OH,Ohio,22655.0,42.0
+1999,OH,Ohio,22819.0,164.0
+2000,OH,Ohio,22733.0,-86.0
+2001,OH,Ohio,22774.0,41.0
+2002,OH,Ohio,22635.0,-139.0
+2003,OH,Ohio,22352.0,-283.0
+2004,OH,Ohio,22412.0,60.0
+2005,OH,Ohio,22313.0,-99.0
+2006,OH,Ohio,22264.0,-49.0
+2007,OH,Ohio,22074.0,-190.0
+2008,OH,Ohio,21814.9,-259.1
+2009,OH,Ohio,21857.5,42.6
+2010,OH,Ohio,21360.1,-497.4
+2011,OH,Ohio,21250.7,-109.4
+2012,OH,Ohio,19267.5,-1983.2
+2013,OH,Ohio,18894.8,-372.7
+2014,OH,Ohio,18084.0,-810.8
+2015,OH,Ohio,15259.9,-2824.1
+2016,OH,Ohio,15181.6,-78.3
+2017,OH,Ohio,14605.4,-576.2
+2018,OH,Ohio,12246.0,-2359.4
+2019,OH,Ohio,11496.0,-750.0
+2020,OH,Ohio,10000.5,-1495.5
+2021,OH,Ohio,10011.5,11.0
+2022,OH,Ohio,8097.5,-1914.0
+2023,OH,Ohio,6607.5,-1490.0
+2024,OH,Ohio,6620.5,13.0
+1990,OK,Oklahoma,5284.0,
+1991,OK,Oklahoma,5299.0,15.0
+1992,OK,Oklahoma,5308.0,9.0
+1993,OK,Oklahoma,5308.0,0.0
+1994,OK,Oklahoma,5302.0,-6.0
+1995,OK,Oklahoma,5265.0,-37.0
+1996,OK,Oklahoma,5282.0,17.0
+1997,OK,Oklahoma,5282.0,0.0
+1998,OK,Oklahoma,5271.0,-11.0
+1999,OK,Oklahoma,5242.0,-29.0
+2000,OK,Oklahoma,5290.0,48.0
+2001,OK,Oklahoma,5247.0,-43.0
+2002,OK,Oklahoma,5287.0,40.0
+2003,OK,Oklahoma,5332.0,45.0
+2004,OK,Oklahoma,5340.0,8.0
+2005,OK,Oklahoma,5355.0,15.0
+2006,OK,Oklahoma,5372.0,17.0
+2007,OK,Oklahoma,5364.0,-8.0
+2008,OK,Oklahoma,5301.6,-62.4
+2009,OK,Oklahoma,5329.9,28.3
+2010,OK,Oklahoma,5329.8,-0.1
+2011,OK,Oklahoma,5306.5,-23.3
+2012,OK,Oklahoma,5294.4,-12.1
+2013,OK,Oklahoma,5305.1,10.7
+2014,OK,Oklahoma,5257.3,-47.8
+2015,OK,Oklahoma,5326.5,69.2
+2016,OK,Oklahoma,4865.8,-460.7
+2017,OK,Oklahoma,4334.6,-531.2
+2018,OK,Oklahoma,4303.5,-31.1
+2019,OK,Oklahoma,3246.0,-1057.5
+2020,OK,Oklahoma,3255.0,9.0
+2021,OK,Oklahoma,3247.0,-8.0
+2022,OK,Oklahoma,3244.5,-2.5
+2023,OK,Oklahoma,3272.5,28.0
+2024,OK,Oklahoma,3258.9,-13.6
+1990,OR,Oregon,543.0,
+1991,OR,Oregon,543.0,0.0
+1992,OR,Oregon,521.0,-22.0
+1993,OR,Oregon,521.0,0.0
+1994,OR,Oregon,521.0,0.0
+1995,OR,Oregon,521.0,0.0
+1996,OR,Oregon,521.0,0.0
+1997,OR,Oregon,521.0,0.0
+1998,OR,Oregon,541.0,20.0
+1999,OR,Oregon,543.0,2.0
+2000,OR,Oregon,570.0,27.0
+2001,OR,Oregon,567.0,-3.0
+2002,OR,Oregon,567.0,0.0
+2003,OR,Oregon,566.0,-1.0
+2004,OR,Oregon,566.0,0.0
+2005,OR,Oregon,585.0,19.0
+2006,OR,Oregon,585.0,0.0
+2007,OR,Oregon,585.0,0.0
+2008,OR,Oregon,585.0,0.0
+2009,OR,Oregon,585.0,0.0
+2010,OR,Oregon,585.0,0.0
+2011,OR,Oregon,585.0,0.0
+2012,OR,Oregon,585.0,0.0
+2013,OR,Oregon,585.0,0.0
+2014,OR,Oregon,585.0,0.0
+2015,OR,Oregon,585.0,0.0
+2016,OR,Oregon,585.0,0.0
+2017,OR,Oregon,585.0,0.0
+2018,OR,Oregon,585.0,0.0
+2019,OR,Oregon,585.0,0.0
+1990,PA,Pennsylvania,18120.0,
+1991,PA,Pennsylvania,17550.0,-570.0
+1992,PA,Pennsylvania,18272.0,722.0
+1993,PA,Pennsylvania,18425.0,153.0
+1994,PA,Pennsylvania,18395.0,-30.0
+1995,PA,Pennsylvania,19069.0,674.0
+1996,PA,Pennsylvania,19032.0,-37.0
+1997,PA,Pennsylvania,18955.0,-77.0
+1998,PA,Pennsylvania,18901.0,-54.0
+1999,PA,Pennsylvania,18830.0,-71.0
+2000,PA,Pennsylvania,18750.0,-80.0
+2001,PA,Pennsylvania,18578.0,-172.0
+2002,PA,Pennsylvania,18377.0,-201.0
+2003,PA,Pennsylvania,18137.0,-240.0
+2004,PA,Pennsylvania,18662.0,525.0
+2005,PA,Pennsylvania,18659.0,-3.0
+2006,PA,Pennsylvania,18771.0,112.0
+2007,PA,Pennsylvania,18581.0,-190.0
+2008,PA,Pennsylvania,18512.7,-68.3
+2009,PA,Pennsylvania,18539.0,26.3
+2010,PA,Pennsylvania,18481.4,-57.6
+2011,PA,Pennsylvania,18067.6,-413.8
+2012,PA,Pennsylvania,17255.9,-811.7
+2013,PA,Pennsylvania,14599.7,-2656.2
+2014,PA,Pennsylvania,14213.5,-386.2
+2015,PA,Pennsylvania,13618.4,-595.1
+2016,PA,Pennsylvania,12729.3,-889.1
+2017,PA,Pennsylvania,11281.0,-1448.3
+2018,PA,Pennsylvania,11536.2,255.2
+2019,PA,Pennsylvania,9384.2,-2152.0
+2020,PA,Pennsylvania,8593.0,-791.2
+2021,PA,Pennsylvania,9999.6,1406.6
+2022,PA,Pennsylvania,8023.2,-1976.4
+2023,PA,Pennsylvania,6008.7,-2014.5
+2024,PA,Pennsylvania,5382.6,-626.1
+1990,SC,South Carolina,4976.0,
+1991,SC,South Carolina,4983.0,7.0
+1992,SC,South Carolina,4983.0,0.0
+1993,SC,South Carolina,5001.0,18.0
+1994,SC,South Carolina,5001.0,0.0
+1995,SC,South Carolina,5483.0,482.0
+1996,SC,South Carolina,5602.0,119.0
+1997,SC,South Carolina,5925.0,323.0
+1998,SC,South Carolina,6138.0,213.0
+1999,SC,South Carolina,6186.0,48.0
+2000,SC,South Carolina,6156.0,-30.0
+2001,SC,South Carolina,6180.0,24.0
+2002,SC,South Carolina,6028.0,-152.0
+2003,SC,South Carolina,6028.0,0.0
+2004,SC,South Carolina,6072.0,44.0
+2005,SC,South Carolina,6072.0,0.0
+2006,SC,South Carolina,6088.0,16.0
+2007,SC,South Carolina,6641.0,553.0
+2008,SC,South Carolina,7241.5,600.5
+2009,SC,South Carolina,7209.5,-32.0
+2010,SC,South Carolina,7229.5,20.0
+2011,SC,South Carolina,7257.5,28.0
+2012,SC,South Carolina,6225.5,-1032.0
+2013,SC,South Carolina,5945.5,-280.0
+2014,SC,South Carolina,5575.5,-370.0
+2015,SC,South Carolina,5547.0,-28.5
+2016,SC,South Carolina,5212.0,-335.0
+2017,SC,South Carolina,5212.0,0.0
+2018,SC,South Carolina,5212.0,0.0
+2019,SC,South Carolina,4769.0,-443.0
+2020,SC,South Carolina,4769.0,0.0
+2021,SC,South Carolina,4789.0,20.0
+2022,SC,South Carolina,4789.0,0.0
+2023,SC,South Carolina,4749.0,-40.0
+2024,SC,South Carolina,4754.0,5.0
+1990,SD,South Dakota,495.0,
+1991,SD,South Dakota,484.0,-11.0
+1992,SD,South Dakota,467.0,-17.0
+1993,SD,South Dakota,467.0,0.0
+1994,SD,South Dakota,488.0,21.0
+1995,SD,South Dakota,475.0,-13.0
+1996,SD,South Dakota,474.0,-1.0
+1997,SD,South Dakota,467.0,-7.0
+1998,SD,South Dakota,477.0,10.0
+1999,SD,South Dakota,477.0,0.0
+2000,SD,South Dakota,477.0,0.0
+2001,SD,South Dakota,477.0,0.0
+2002,SD,South Dakota,477.0,0.0
+2003,SD,South Dakota,476.0,-1.0
+2004,SD,South Dakota,477.0,1.0
+2005,SD,South Dakota,482.0,5.0
+2006,SD,South Dakota,492.0,10.0
+2007,SD,South Dakota,492.0,0.0
+2008,SD,South Dakota,496.6,4.6
+2009,SD,South Dakota,496.6,0.0
+2010,SD,South Dakota,496.6,0.0
+2011,SD,South Dakota,496.6,0.0
+2012,SD,South Dakota,496.6,0.0
+2013,SD,South Dakota,496.6,0.0
+2014,SD,South Dakota,475.0,-21.6
+2015,SD,South Dakota,475.0,0.0
+2016,SD,South Dakota,474.0,-1.0
+2017,SD,South Dakota,474.0,0.0
+2018,SD,South Dakota,474.0,0.0
+2019,SD,South Dakota,474.0,0.0
+2020,SD,South Dakota,474.0,0.0
+2021,SD,South Dakota,474.0,0.0
+2022,SD,South Dakota,475.0,1.0
+2023,SD,South Dakota,475.0,0.0
+2024,SD,South Dakota,477.3,2.3
+1990,TN,Tennessee,9379.0,
+1991,TN,Tennessee,8787.0,-592.0
+1992,TN,Tennessee,8752.0,-35.0
+1993,TN,Tennessee,8753.0,1.0
+1994,TN,Tennessee,8715.0,-38.0
+1995,TN,Tennessee,8947.0,232.0
+1996,TN,Tennessee,8947.0,0.0
+1997,TN,Tennessee,8913.0,-34.0
+1998,TN,Tennessee,8967.0,54.0
+1999,TN,Tennessee,8981.0,14.0
+2000,TN,Tennessee,8981.0,0.0
+2001,TN,Tennessee,8913.0,-68.0
+2002,TN,Tennessee,8878.0,-35.0
+2003,TN,Tennessee,8661.0,-217.0
+2004,TN,Tennessee,8675.0,14.0
+2005,TN,Tennessee,8874.0,199.0
+2006,TN,Tennessee,8841.0,-33.0
+2007,TN,Tennessee,8816.0,-25.0
+2008,TN,Tennessee,8840.6,24.6
+2009,TN,Tennessee,8804.6,-36.0
+2010,TN,Tennessee,8804.6,0.0
+2011,TN,Tennessee,8580.6,-224.0
+2012,TN,Tennessee,8228.6,-352.0
+2013,TN,Tennessee,8228.6,0.0
+2014,TN,Tennessee,7847.6,-381.0
+2015,TN,Tennessee,7077.3,-770.3
+2016,TN,Tennessee,7014.3,-63.0
+2017,TN,Tennessee,6586.3,-428.0
+2018,TN,Tennessee,5845.3,-741.0
+2019,TN,Tennessee,5845.3,0.0
+2020,TN,Tennessee,5845.3,0.0
+2021,TN,Tennessee,5840.3,-5.0
+2022,TN,Tennessee,5819.5,-20.8
+2023,TN,Tennessee,4954.5,-865.0
+2024,TN,Tennessee,4703.5,-251.0
+1990,TX,Texas,18928.0,
+1991,TX,Texas,19114.0,186.0
+1992,TX,Texas,19673.0,559.0
+1993,TX,Texas,19673.0,0.0
+1994,TX,Texas,19683.0,10.0
+1995,TX,Texas,19737.0,54.0
+1996,TX,Texas,19739.0,2.0
+1997,TX,Texas,19927.0,188.0
+1998,TX,Texas,20069.0,142.0
+1999,TX,Texas,20213.0,144.0
+2000,TX,Texas,19812.0,-401.0
+2001,TX,Texas,19913.0,101.0
+2002,TX,Texas,20196.0,283.0
+2003,TX,Texas,20053.0,-143.0
+2004,TX,Texas,20201.0,148.0
+2005,TX,Texas,20188.0,-13.0
+2006,TX,Texas,19843.0,-345.0
+2007,TX,Texas,19817.0,-26.0
+2008,TX,Texas,20189.0,372.0
+2009,TX,Texas,20247.0,58.0
+2010,TX,Texas,22335.4,2088.4
+2011,TX,Texas,23180.4,845.0
+2012,TX,Texas,23132.4,-48.0
+2013,TX,Texas,24091.5,959.1
+2014,TX,Texas,24121.5,30.0
+2015,TX,Texas,24116.5,-5.0
+2016,TX,Texas,23589.0,-527.5
+2017,TX,Texas,23589.0,0.0
+2018,TX,Texas,19321.6,-4267.4
+2019,TX,Texas,18872.6,-449.0
+2020,TX,Texas,18141.6,-731.0
+2021,TX,Texas,18141.6,0.0
+2022,TX,Texas,18141.6,0.0
+2023,TX,Texas,16622.6,-1519.0
+2024,TX,Texas,16283.6,-339.0
+1990,US,United States,304334.0,
+1991,US,United States,306727.0,2393.0
+1992,US,United States,309111.0,2384.0
+1993,US,United States,308923.0,-188.0
+1994,US,United States,309618.0,695.0
+1995,US,United States,311436.0,1818.0
+1996,US,United States,313399.0,1963.0
+1997,US,United States,314447.0,1048.0
+1998,US,United States,316444.0,1997.0
+1999,US,United States,315693.0,-751.0
+2000,US,United States,315929.0,236.0
+2001,US,United States,314230.0,-1699.0
+2002,US,United States,315283.0,1053.0
+2003,US,United States,312474.0,-2809.0
+2004,US,United States,312630.0,156.0
+2005,US,United States,313380.0,750.0
+2006,US,United States,312956.0,-424.0
+2007,US,United States,312738.0,-218.0
+2008,US,United States,313321.6,583.6
+2009,US,United States,314294.1,972.5
+2010,US,United States,317339.1,3045.0
+2011,US,United States,317640.3,301.2
+2012,US,United States,309680.4,-7959.9
+2013,US,United States,303306.3,-6374.1
+2014,US,United States,299094.2,-4212.1
+2015,US,United States,279719.9,-19374.3
+2016,US,United States,266619.9,-13100.0
+2017,US,United States,256547.3,-10072.6
+2018,US,United States,242785.6,-13761.7
+2019,US,United States,228657.4,-14128.2
+2020,US,United States,215554.2,-13103.2
+2021,US,United States,209825.7,-5728.5
+2022,US,United States,189316.3,-20509.4
+2023,US,United States,178441.7,-10874.6
+2024,US,United States,174177.6,-4264.1
+1990,UT,Utah,4241.0,
+1991,UT,Utah,4196.0,-45.0
+1992,UT,Utah,4196.0,0.0
+1993,UT,Utah,4250.0,54.0
+1994,UT,Utah,4327.0,77.0
+1995,UT,Utah,4429.0,102.0
+1996,UT,Utah,4429.0,0.0
+1997,UT,Utah,4372.0,-57.0
+1998,UT,Utah,4502.0,130.0
+1999,UT,Utah,4517.0,15.0
+2000,UT,Utah,4565.0,48.0
+2001,UT,Utah,4565.0,0.0
+2002,UT,Utah,4562.0,-3.0
+2003,UT,Utah,4606.0,44.0
+2004,UT,Utah,4826.0,220.0
+2005,UT,Utah,4891.0,65.0
+2006,UT,Utah,4891.0,0.0
+2007,UT,Utah,4871.0,-20.0
+2008,UT,Utah,4871.0,0.0
+2009,UT,Utah,4871.0,0.0
+2010,UT,Utah,4903.0,32.0
+2011,UT,Utah,4903.0,0.0
+2012,UT,Utah,4901.0,-2.0
+2013,UT,Utah,4926.0,25.0
+2014,UT,Utah,4926.0,0.0
+2015,UT,Utah,4754.0,-172.0
+2016,UT,Utah,4654.0,-100.0
+2017,UT,Utah,4654.0,0.0
+2018,UT,Utah,4654.0,0.0
+2019,UT,Utah,4581.0,-73.0
+2020,UT,Utah,4581.0,0.0
+2021,UT,Utah,4581.0,0.0
+2022,UT,Utah,4581.0,0.0
+2023,UT,Utah,4581.0,0.0
+2024,UT,Utah,4581.0,0.0
+1990,VA,Virginia,4598.0,
+1991,VA,Virginia,4672.0,74.0
+1992,VA,Virginia,5130.0,458.0
+1993,VA,Virginia,5111.0,-19.0
+1994,VA,Virginia,5111.0,0.0
+1995,VA,Virginia,6376.0,1265.0
+1996,VA,Virginia,6218.0,-158.0
+1997,VA,Virginia,6249.0,31.0
+1998,VA,Virginia,6221.0,-28.0
+1999,VA,Virginia,6205.0,-16.0
+2000,VA,Virginia,6385.0,180.0
+2001,VA,Virginia,6137.0,-248.0
+2002,VA,Virginia,6117.0,-20.0
+2003,VA,Virginia,5733.0,-384.0
+2004,VA,Virginia,5795.0,62.0
+2005,VA,Virginia,5783.0,-12.0
+2006,VA,Virginia,5774.0,-9.0
+2007,VA,Virginia,5794.0,20.0
+2008,VA,Virginia,5773.4,-20.6
+2009,VA,Virginia,5777.2,3.8
+2010,VA,Virginia,5867.9,90.7
+2011,VA,Virginia,5848.1,-19.8
+2012,VA,Virginia,5976.3,128.2
+2013,VA,Virginia,5554.1,-422.2
+2014,VA,Virginia,5541.9,-12.2
+2015,VA,Virginia,4379.3,-1162.6
+2016,VA,Virginia,3800.4,-578.9
+2017,VA,Virginia,3778.0,-22.4
+2018,VA,Virginia,3780.0,2.0
+2019,VA,Virginia,2878.9,-901.1
+2020,VA,Virginia,2878.7,-0.2
+2021,VA,Virginia,2536.0,-342.7
+2022,VA,Virginia,2536.0,0.0
+2023,VA,Virginia,1530.1,-1005.9
+2024,VA,Virginia,1530.1,0.0
+1990,WA,Washington,1326.0,
+1991,WA,Washington,1362.0,36.0
+1992,WA,Washington,1392.0,30.0
+1993,WA,Washington,1392.0,0.0
+1994,WA,Washington,1392.0,0.0
+1995,WA,Washington,1342.0,-50.0
+1996,WA,Washington,1392.0,50.0
+1997,WA,Washington,1392.0,0.0
+1998,WA,Washington,1392.0,0.0
+1999,WA,Washington,1342.0,-50.0
+2000,WA,Washington,1355.0,13.0
+2001,WA,Washington,1407.0,52.0
+2002,WA,Washington,1407.0,0.0
+2003,WA,Washington,1407.0,0.0
+2004,WA,Washington,1407.0,0.0
+2005,WA,Washington,1405.0,-2.0
+2006,WA,Washington,1405.0,0.0
+2007,WA,Washington,1405.0,0.0
+2008,WA,Washington,1376.0,-29.0
+2009,WA,Washington,1376.0,0.0
+2010,WA,Washington,1340.0,-36.0
+2011,WA,Washington,1340.0,0.0
+2012,WA,Washington,1340.0,0.0
+2013,WA,Washington,1340.0,0.0
+2014,WA,Washington,1340.0,0.0
+2015,WA,Washington,1340.0,0.0
+2016,WA,Washington,1340.0,0.0
+2017,WA,Washington,1340.0,0.0
+2018,WA,Washington,1340.0,0.0
+2019,WA,Washington,1340.0,0.0
+2020,WA,Washington,670.0,-670.0
+2021,WA,Washington,670.0,0.0
+2022,WA,Washington,670.0,0.0
+2023,WA,Washington,670.0,0.0
+2024,WA,Washington,670.0,0.0
+1990,WI,Wisconsin,7422.0,
+1991,WI,Wisconsin,7429.0,7.0
+1992,WI,Wisconsin,7608.0,179.0
+1993,WI,Wisconsin,7629.0,21.0
+1994,WI,Wisconsin,7590.0,-39.0
+1995,WI,Wisconsin,7612.0,22.0
+1996,WI,Wisconsin,7777.0,165.0
+1997,WI,Wisconsin,7782.0,5.0
+1998,WI,Wisconsin,7646.0,-136.0
+1999,WI,Wisconsin,7612.0,-34.0
+2000,WI,Wisconsin,7619.0,7.0
+2001,WI,Wisconsin,7493.0,-126.0
+2002,WI,Wisconsin,7500.0,7.0
+2003,WI,Wisconsin,7439.0,-61.0
+2004,WI,Wisconsin,7133.0,-306.0
+2005,WI,Wisconsin,7146.0,13.0
+2006,WI,Wisconsin,7063.0,-83.0
+2007,WI,Wisconsin,6945.0,-118.0
+2008,WI,Wisconsin,7597.2,652.2
+2009,WI,Wisconsin,7519.1,-78.1
+2010,WI,Wisconsin,8063.4,544.3
+2011,WI,Wisconsin,8404.7,341.3
+2012,WI,Wisconsin,8258.9,-145.8
+2013,WI,Wisconsin,8150.8,-108.1
+2014,WI,Wisconsin,7950.9,-199.9
+2015,WI,Wisconsin,7372.7,-578.2
+2016,WI,Wisconsin,7116.7,-256.0
+2017,WI,Wisconsin,7128.8,12.1
+2018,WI,Wisconsin,5554.2,-1574.6
+2019,WI,Wisconsin,5540.8,-13.4
+2020,WI,Wisconsin,5587.2,46.4
+2021,WI,Wisconsin,5270.1,-317.1
+2022,WI,Wisconsin,5267.7,-2.4
+2023,WI,Wisconsin,5226.2,-41.5
+2024,WI,Wisconsin,4743.4,-482.8
+1990,WV,West Virginia,14633.0,
+1991,WV,West Virginia,14786.0,153.0
+1992,WV,West Virginia,14834.0,48.0
+1993,WV,West Virginia,14823.0,-11.0
+1994,WV,West Virginia,14865.0,42.0
+1995,WV,West Virginia,14765.0,-100.0
+1996,WV,West Virginia,14765.0,0.0
+1997,WV,West Virginia,14765.0,0.0
+1998,WV,West Virginia,14765.0,0.0
+1999,WV,West Virginia,14780.0,15.0
+2000,WV,West Virginia,14719.0,-61.0
+2001,WV,West Virginia,14703.0,-16.0
+2002,WV,West Virginia,14716.0,13.0
+2003,WV,West Virginia,14716.0,0.0
+2004,WV,West Virginia,14723.0,7.0
+2005,WV,West Virginia,14733.0,10.0
+2006,WV,West Virginia,14745.0,12.0
+2007,WV,West Virginia,14715.0,-30.0
+2008,WV,West Virginia,14702.6,-12.4
+2009,WV,West Virginia,14712.6,10.0
+2010,WV,West Virginia,14712.6,0.0
+2011,WV,West Virginia,15440.6,728.0
+2012,WV,West Virginia,14290.6,-1150.0
+2013,WV,West Virginia,14273.6,-17.0
+2014,WV,West Virginia,14273.6,0.0
+2015,WV,West Virginia,13081.0,-1192.6
+2016,WV,West Virginia,12958.0,-123.0
+2017,WV,West Virginia,12558.0,-400.0
+2018,WV,West Virginia,12558.0,0.0
+2019,WV,West Virginia,12568.0,10.0
+2020,WV,West Virginia,12568.0,0.0
+2021,WV,West Virginia,12558.0,-10.0
+2022,WV,West Virginia,12558.0,0.0
+2023,WV,West Virginia,12542.4,-15.6
+2024,WV,West Virginia,12542.5,0.1
+1990,WY,Wyoming,5553.0,
+1991,WY,Wyoming,5573.0,20.0
+1992,WY,Wyoming,5595.0,22.0
+1993,WY,Wyoming,5595.0,0.0
+1994,WY,Wyoming,5595.0,0.0
+1995,WY,Wyoming,5690.0,95.0
+1996,WY,Wyoming,5690.0,0.0
+1997,WY,Wyoming,5765.0,75.0
+1998,WY,Wyoming,5738.0,-27.0
+1999,WY,Wyoming,5737.0,-1.0
+2000,WY,Wyoming,5738.0,1.0
+2001,WY,Wyoming,5740.0,2.0
+2002,WY,Wyoming,5722.0,-18.0
+2003,WY,Wyoming,5792.0,70.0
+2004,WY,Wyoming,5792.0,0.0
+2005,WY,Wyoming,5847.0,55.0
+2006,WY,Wyoming,5847.0,0.0
+2007,WY,Wyoming,5847.0,0.0
+2008,WY,Wyoming,5931.9,84.9
+2009,WY,Wyoming,5928.9,-3.0
+2010,WY,Wyoming,6034.9,106.0
+2011,WY,Wyoming,6482.4,447.5
+2012,WY,Wyoming,6432.4,-50.0
+2013,WY,Wyoming,6432.4,0.0
+2014,WY,Wyoming,6387.5,-44.9
+2015,WY,Wyoming,6410.1,22.6
+2016,WY,Wyoming,6411.6,1.5
+2017,WY,Wyoming,6406.0,-5.6
+2018,WY,Wyoming,6406.0,0.0
+2019,WY,Wyoming,6403.0,-3.0
+2020,WY,Wyoming,6069.0,-334.0
+2021,WY,Wyoming,6069.0,0.0
+2022,WY,Wyoming,6069.0,0.0
+2023,WY,Wyoming,6069.0,0.0
+2024,WY,Wyoming,4999.0,-1070.0

@@ -12,6 +12,7 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
+from scripts.export_for_powerbi import export_coal_generation_capacities_to_csv
 from db.generation_capacities import insert_yearly_generation_capacities, insert_yearly_coal_generation_capacities
 from db.connection import table_exists
 from utils.file_utils import data_is_fresh, load_json_cache, save_json_cache
@@ -185,6 +186,7 @@ def main():
 
     fetch_raw_eia_capacities_data()
     create_coal_generation_capacities_table()
+    export_coal_generation_capacities_to_csv()
 
 
 if __name__ == "__main__":
