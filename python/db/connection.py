@@ -10,7 +10,7 @@ from pathlib import Path
 from utils.logger import get_logger
 logger = get_logger(__name__)
 
-DB_PATH = Path(__file__).resolve().parent.parent / "db" / "eia.db"
+DB_PATH = Path(__file__).resolve().parent.parent.parent / "data" / "eia.db"
 
 
 def get_connection() -> sqlite3.Connection:

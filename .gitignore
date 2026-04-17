@@ -1,8 +1,6 @@
-.env
-suggested_refactoring.md
+python/.env
 __pycache__/
 *.pyc
-venv/
-logs/
-data/
-.idea/
+python/venv/
+python/logs/
+python/.idea/

@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 Fetch EIA State Electricity Profiles — Generating Capacities data
-(V2 API), cache the raw JSON to data/, and load it into SQLite via
-the db module.
+(V2 API), cache the raw JSON to data/, and create the SQLite DB.
 
 All energy values are in megawatts (MW).
 """
@@ -13,7 +12,7 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-from db.generation_capacities import insert_yearly_generation_capacities
+from db.generation_capacities import insert_yearly_generation_capacities, create_yearly_coal_generation_capacities_table
 from db.connection import table_exists
 from utils.file_utils import data_is_fresh, load_json_cache, save_json_cache
 from utils.logger import get_logger
@@ -22,8 +21,8 @@ from utils.validator import detect_schema_drift
 
 logger = get_logger(__name__)
 
-PROJECT_ROOT = Path(__file__).resolve().parent
-load_dotenv(PROJECT_ROOT / ".env")
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+load_dotenv(".env")
 
 # Config 
 API_KEY = os.getenv("EIA_API_KEY")
@@ -31,8 +30,8 @@ BASE_URL = "https://api.eia.gov/v2"
 ROUTE = "electricity/state-electricity-profiles/capability/data"
 
 DATA_DIR = PROJECT_ROOT / "data"
-DB_DIR = PROJECT_ROOT / "db"
-JSON_FILE = DATA_DIR / "eia_generation_capacities.json"
+DB_PATH = DATA_DIR / "eia.db"
+JSON_FILE = DATA_DIR / "raw" / "eia_generation_capacities.json"
 
 FIELDS = [
     "capability",
@@ -134,9 +133,8 @@ def fetch_all_records() -> list[dict]:
     return all_records
 
 
-# Main Process
-def fetch_eia_capacities_data() -> None:
-    """Fetch yearly generation capacities data from the EIA API."""
+def fetch_raw_eia_capacities_data() -> None:
+    """Fetch yearly generation capacities data from the EIA API and create the generation_capacities table."""
 
     if not API_KEY:
         logger.error("EIA_API_KEY is not set. Add it to your .env file.")
@@ -145,7 +143,7 @@ def fetch_eia_capacities_data() -> None:
     # If the cached JSON is fresh, check if the DB table exists and has data. 
     # If not, rebuild from the cached JSON.
     if data_is_fresh(JSON_FILE):
-        if not (DB_DIR / "eia.db").exists() or not table_exists("yearly_generation_capacities"):
+        if not (DB_PATH).exists() or not table_exists("yearly_generation_capacities"):
             logger.warning("Data is fresh but table or DB is missing — rebuilding from cached JSON.")
             records = load_json_cache(JSON_FILE)
             row_count = insert_yearly_generation_capacities(records)
@@ -175,5 +173,19 @@ def fetch_eia_capacities_data() -> None:
         raise RuntimeError("EIA data varied from expected schema")
 
 
+def create_coal_generation_capacities_table() -> None:
+    """Create the yearly_coal_generation_capacities table by filtering for coal records."""
+    
+    row_count = create_yearly_coal_generation_capacities_table()
+    logger.info("Inserted %d rows into yearly_coal_generation_capacities.", row_count)
+
+
+# main process
+def main():
+
+    fetch_raw_eia_capacities_data()
+    create_coal_generation_capacities_table()
+
+
 if __name__ == "__main__":
-    fetch_eia_capacities_data()
+    main()

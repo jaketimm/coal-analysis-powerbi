@@ -2,7 +2,6 @@
 Generation capacities database read/write operations
 ─────────────────────────
 insert_yearly_generation_capacities(records)
-get_generation_capacities_state_list
 """
 
 import sqlite3
@@ -13,7 +12,7 @@ from utils.logger import get_logger
 from utils.year_validator import validate_period
 logger = get_logger(__name__)
 
-DB_PATH = Path(__file__).resolve().parent.parent / "db" / "eia.db"
+DB_PATH = Path(__file__).resolve().parent.parent.parent / "data" / "eia.db"
 
 
 # yearly_generation_capacities table — writes 
@@ -96,29 +95,67 @@ def insert_yearly_generation_capacities(records: list[dict]) -> int:
         raise
 
 
-# yearly_generation_capacities table — reads
-def get_generation_capacities_state_list() -> list[sqlite3.Row]:
-    """
-    Return all state codes and descriptions available for generation capacities.
-    Used to populate the state filter dropdown.
-    """
+def create_yearly_coal_generation_capacities_table() -> int:
+    """Create the yearly_coal_generation_capacities table if it doesn't exist."""
     try:
         conn = get_connection()
-        rows = conn.execute(
-            """
-            SELECT DISTINCT state, state_description
-            FROM yearly_generation_capacities
-            WHERE state NOT IN ('US', 'DC')
-            ORDER BY state_description ASC
-            """
-        ).fetchall()
+        cur = conn.cursor()
+
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS yearly_coal_generation_capacities (
+                period                      INTEGER NOT NULL,
+                state                       TEXT    NOT NULL,
+                state_description           TEXT    NOT NULL,
+                energy_source_id        TEXT,
+                capability        REAL,
+                PRIMARY KEY (period, state, energy_source_id)
+            )
+        """)
+        conn.commit()
         conn.close()
-        return rows
     except sqlite3.Error as exc:
-        logger.error("SQLite error in get_generation_capacities_state_list: %s", exc)
+        logger.error("SQLite error in create_yearly_coal_generation_capacities_table: %s", exc)
         raise
     except Exception as exc:
-        logger.error("Unexpected error in get_generation_capacities_state_list: %s", exc)
+        logger.error("Unexpected error in create_yearly_coal_generation_capacities_table: %s", exc)
         raise
 
 
+    # Fetch all coal capacities data from yearly_generation_capacities
+    query = "SELECT period, state, state_description, energy_source_id, capability FROM yearly_generation_capacities WHERE energy_source_id = 'COL'"
+
+    try:
+        conn = get_connection()
+        rows = conn.execute(query).fetchall()
+        conn.close()
+    except sqlite3.Error as exc:
+        logger.error("SQLite error in get_yearly_source_disposition: %s", exc)
+        raise
+    except Exception as exc:
+        logger.error("Unexpected error in get_yearly_source_disposition: %s", exc)
+        raise
+
+    # Insert into yearly_coal_generation_capacities
+    try:
+        conn = get_connection()
+        cur = conn.cursor()
+        cur.executemany(
+            """
+            INSERT OR IGNORE INTO yearly_coal_generation_capacities
+                (period, state, state_description, energy_source_id, capability)
+            VALUES (?, ?, ?, ?, ?)
+            """,
+            [(row[0], row[1], row[2], 'COL', row[4]) for row in rows],
+        )
+        conn.commit()
+        inserted = conn.total_changes
+        conn.close()
+
+        return inserted
+    
+    except sqlite3.Error as exc:
+        logger.error("SQLite error inserting coal data: %s", exc)
+        raise
+    except Exception as exc:
+        logger.error("Unexpected error inserting coal data: %s", exc)
+        raise
