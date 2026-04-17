@@ -168,17 +168,25 @@ def fetch_coal_generation_capacities_data() -> list[sqlite3.Row]:
     """Fetch coal generation capacities data with yearly changes and total context for analysis."""
 
     # Fetch all coal capacities data from yearly_generation_capacities, with yearly coal capability changes and total capability for context
-    query = """SELECT coal.period, coal.state, coal.state_description, coal.capability AS coal_capability, 
-    round(coal.capability - LAG(coal.capability) OVER (PARTITION BY coal.state ORDER BY coal.period), 2) AS coal_capability_change
+    query = """WITH totals AS (
+    SELECT state, period, ROUND(SUM(capability), 2) AS total_capability
+    FROM yearly_generation_capacities
+    GROUP BY state, period)
+
+    SELECT coal.period, coal.state, coal.state_description, coal.capability AS coal_capability,
+    ROUND(coal.capability - LAG(coal.capability) OVER (PARTITION BY coal.state ORDER BY coal.period), 2) AS coal_capability_change,
+    ROUND(1.0 * coal.capability / totals.total_capability, 3) AS coal_percent_share,
+    totals.total_capability
     FROM yearly_coal_generation_capacities coal
-    ORDER BY coal.state, coal.period"""
+    JOIN totals
+    ON coal.state = totals.state AND coal.period = totals.period
+    ORDER BY coal.state, coal.period;"""
 
     try:
         conn = get_connection()
         rows = conn.execute(query).fetchall()
         conn.close()
 
-        print(rows[:5])
         return rows
     
     except sqlite3.Error as exc:

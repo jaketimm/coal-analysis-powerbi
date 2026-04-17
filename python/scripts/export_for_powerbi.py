@@ -24,7 +24,7 @@ def export_coal_generation_capacities_to_csv() -> None:
         with open(EXPORT_CSV, "w", newline="", encoding="utf-8") as csvfile:
             writer = csv.writer(csvfile)
             # Write header
-            writer.writerow(["period", "state", "state_description", "coal_capability", "coal_capability_change"])
+            writer.writerow(["period", "state", "state_description", "coal_capability", "coal_capability_change", "coal_percent_share", "total_capability"])
             # Write data rows
             for row in rows:
                 writer.writerow(row)

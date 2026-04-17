@@ -1,8 +1,8 @@
 # EIA Data Coal Analysis
 
+Analysis was performed using the `coal_generation_capacities.csv` file. This file is created automatically by running `run.py`.
+
 TODO: present findings here
-
-
 
 ## Fetch EIA Data, Create The DB, & Export Coal Data to CSV
 
@@ -31,6 +31,8 @@ coal-analysis-powerbi/
 │   ├── run.py    # Main process
 │   ├── .env
 │   ├── requirements.txt
+│   ├── scripts/
+│   │   └── export_for_powerbi.py
 │   ├── utils/
 │   │   ├── logger.py
 │   │   ├── file_utils.py
@@ -41,7 +43,7 @@ coal-analysis-powerbi/
 │       └── generation_capacities.py
 │
 └── data/
-    ├── raw/
+    ├── raw/         # Unprocessed JSON file
     ├── processed/   # Exported CSV data
     └── eia.db
 ```
