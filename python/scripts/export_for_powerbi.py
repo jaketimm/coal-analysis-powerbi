@@ -11,6 +11,7 @@ EXPORT_CSV = PROJECT_ROOT / "data" / "processed" / "coal_generation_capacities.c
 
 def export_coal_generation_capacities_to_csv() -> None:
     """Export coal generation capacities data to a CSV file for Power BI import."""
+    
     try:
         rows = fetch_coal_generation_capacities_data()
         if not rows:
