@@ -17,7 +17,6 @@ logger = get_logger(__name__)
 DB_PATH = Path(__file__).resolve().parent.parent.parent / "data" / "eia.db"
 
 
-# yearly_generation_capacities table — writes 
 def insert_yearly_generation_capacities(records: list[dict]) -> int:
     """
     Create and update the yearly_generation_capacities table.
@@ -97,7 +96,6 @@ def insert_yearly_generation_capacities(records: list[dict]) -> int:
         raise
 
 
-# yearly_coal_generation_capacities table — writes
 def insert_yearly_coal_generation_capacities() -> int:
     """Create the yearly_coal_generation_capacities table if it doesn't exist."""
     try:

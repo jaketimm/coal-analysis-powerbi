@@ -2,17 +2,23 @@
 
 A data analysis project examining the decline of coal-fired electricity generation across U.S. regions from 1990 to 2024, using EIA data and Power BI visualization
 
+## Key Terms
+
+- Coal Generation Capacity: The maximum amount of electricity a region's coal plants can generate at full output
+
+- Total Generation Capacity: The maximum amount of electricity all sources (coal, natural gas, wind, etc.) within a region can generate at full output
+
 ## Key Findings
 
-- 127 GW of coal capacity retired nationally between 1990 and 2024, reducing coal's share of total national generation from 20.28% to 5.89%
+- 127 GW of coal capacity retired nationally between 1990 and 2024, reducing coal's share of total national capacity from 20.28% to 5.89%
 
 - Regional concentration: Six of the top 10 states for coal retirements were in the Midwest (OH, IL, IN, MI) and Appalachia (PA, KY). These regions are historically dependent on coal for both generation and mining
 
 - Percentage vs. MW retired: The Mountain West and Midwest both reduced coal's share of total capacity by roughly 22 percentage points. However, due to the Mountain West's much smaller power grid, this translated to just 3,936 MW retired compared to the Midwest's 46,392 MW
 
-- Acceleration after 2008: The fracking boom and an increase in natural gas power plants dramatically reduced demand for coal, triggering steep declines across all regions through the 2010s
+- Acceleration after 2008: The fracking boom and an increase in natural gas power plants dramatically reduced the utilization of coal-fired plants, triggering steep declines across all regions through the 2010s
 
-- Lower Southwest/Pacific representation: No states from the Southwest, Mountain West, or Pacific regions made the top 10 for absolute coal retirements, highlighting the geographic concentration of the transition
+- Lower Western/Pacific representation: No states from the Southwest, Mountain West, or Pacific regions made the top 10 for absolute coal retirements. This indicates that the transition away from coal was largely concentrated in the Eastern half of the United States.
 
 ## Dashboard
 
@@ -67,9 +73,9 @@ coal-analysis-powerbi/
 │   ├── run.py    # Main process
 │   ├── .env
 │   ├── requirements.txt
-│   ├── scripts/
-│   │   └── export_for_powerbi.py
 │   ├── utils/
+│   │   ├── eia_api/
+│   │   ├── export_for_powerbi.py
 │   │   ├── logger.py
 │   │   ├── file_utils.py
 │   │   ├── year_validator.py
