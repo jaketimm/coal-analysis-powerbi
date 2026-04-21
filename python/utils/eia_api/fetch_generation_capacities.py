@@ -3,7 +3,6 @@ Fetch EIA State Electricity Profiles — Generating Capacities data.
 All energy values are in megawatts (MW).
 """
 
-from pathlib import Path
 import requests
 
 from db.generation_capacities import (
@@ -14,7 +13,7 @@ from db.connection import table_exists
 from utils.file_utils import data_is_fresh, load_json_cache, save_json_cache
 from utils.logger import get_logger
 from utils.validator import detect_schema_drift
-from .config import API_KEY, BASE_URL, DATA_DIR, DB_PATH, BATCH_SIZE, REQUEST_TIMEOUT
+from config import API_KEY, BASE_URL, DATA_DIR, DB_PATH, BATCH_SIZE, REQUEST_TIMEOUT
 
 
 logger = get_logger(__name__)
@@ -174,3 +173,4 @@ def create_coal_generation_capacities_table() -> None:
     """Create the yearly_coal_generation_capacities table by filtering for coal records."""
     row_count = insert_yearly_coal_generation_capacities()
     logger.info("Inserted %d rows into yearly_coal_generation_capacities.", row_count)
+    

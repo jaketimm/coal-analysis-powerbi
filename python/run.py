@@ -19,7 +19,7 @@ def main():
     fetch_raw_eia_capacities_data()
     create_coal_generation_capacities_table()
     export_coal_generation_capacities_to_csv()
-    
+        
     logger.info("EIA data retrieval process complete.")
 
 

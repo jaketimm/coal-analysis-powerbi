@@ -18,7 +18,7 @@ A data analysis project examining the decline of coal-fired electricity generati
 
 - Acceleration after 2008: The fracking boom and an increase in natural gas power plants dramatically reduced the utilization of coal-fired plants, triggering steep declines across all regions through the 2010s
 
-- Lower Western/Pacific representation: No states from the Southwest, Mountain West, or Pacific regions made the top 10 for absolute coal retirements. This indicates that the transition away from coal was largely concentrated in the Eastern half of the United States.
+- Lower Western/Pacific representation: No states from the Southwest, Mountain West, or Pacific regions made the top 10 for absolute coal retirements. This indicates that the transition away from coal was largely concentrated in the eastern half of the United States
 
 ## Dashboard
 

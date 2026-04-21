@@ -1,7 +1,8 @@
-from db.generation_capacities import fetch_coal_generation_capacities_data
+"""Utility function to export the final coal generation capacities data to a CSV file"""
 import csv
 import os
 from pathlib import Path
+from db.generation_capacities import fetch_coal_generation_capacities_data
 from utils.logger import get_logger
 logger = get_logger(__name__)
 
@@ -31,5 +32,9 @@ def export_coal_generation_capacities_to_csv() -> None:
                 writer.writerow(row)
 
         logger.info("Successfully exported coal generation capacities data to %s", EXPORT_CSV)
+
+    except FileNotFoundError as exc:
+        logger.error("Could not find CSV file: %s", exc)
+        raise
     except Exception as exc:
         logger.error("Error exporting coal generation capacities data: %s", exc)
